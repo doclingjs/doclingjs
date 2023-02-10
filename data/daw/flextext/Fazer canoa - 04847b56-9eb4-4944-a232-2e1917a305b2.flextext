@@ -1,0 +1,2852 @@
+<document version="2">
+	<interlinear-text guid="04847b56-9eb4-4944-a232-2e1917a305b2">
+		<item type="title" lang="pt-BR">Fazer canoa</item>
+		<item type="title-abbreviation" lang="pt-BR">1. Canoa-Rob</item>
+		<item type="source" lang="pt-BR">Contado por Roberto</item>
+		<item type="comment" lang="en">Checked Spelling 7/18/17 - Silia</item>
+		<item type="comment" lang="pt-BR">For any line that has a full gloss on it, that was the orgininal word-by-word gloss done in the field</item>
+		<paragraphs>
+			<paragraph guid="7516998a-5254-4a5b-9e38-46147654025c">
+				<phrases>
+					<phrase guid="985186da-5b20-4c22-86b0-f67388ee57a7">
+						<item type="segnum" lang="en">1.1</item>
+						<words>
+							<word guid="2ff24e31-b83c-4425-860f-a076e9f19af6">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#227;a'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#227;a'</item>
+										<item type="gls" lang="pt-BR">este.a&#237;</item>
+										<item type="gls" lang="en">this.one</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">este.a&#237;</item>
+								<item type="gls" lang="en">this.one</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="befc886d-7082-48bc-9746-235beabed8eb">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;m&#227;an'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;m&#227;an'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;m&#227;an'</item>
+										<item type="gls" lang="pt-BR">semana</item>
+										<item type="gls" lang="en">week</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">semana</item>
+								<item type="gls" lang="en">week</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">essa semana eu fiz uma canoa</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="cde584a5-8366-44c5-9e65-f1e9125ca274">
+						<item type="segnum" lang="en">1.2</item>
+						<words>
+							<word guid="2b707a99-6745-409b-8247-e61e9101fe71">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="26efec81-9885-4084-a275-af92b507e663">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#227;m</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#227;m</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#227;m</item>
+										<item type="gls" lang="pt-BR">ir</item>
+										<item type="gls" lang="en">go</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ir</item>
+								<item type="gls" lang="en">go</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="afc915d8-3009-487f-8cce-b36b08f99d87">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xaay</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xaay</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xaay</item>
+										<item type="gls" lang="pt-BR">floresta</item>
+										<item type="gls" lang="en">forest</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">floresta</item>
+								<item type="gls" lang="en">forest</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">a&#237; n&#243;s fomos no mato</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="61733eff-c93d-4dde-95b9-4772c545112e">
+						<item type="segnum" lang="en">1.3</item>
+						<words>
+							<word guid="9136f1bf-7048-4ad7-8e4f-ad832bb93ad5">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">diid</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">diid</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">diid</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+										<item type="gls" lang="pt-BR">l&#225;</item>
+										<item type="gls" lang="en">there</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">l&#225;</item>
+								<item type="gls" lang="en">there</item>
+								<item type="pos" lang="en">pro-form</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="a66cf9d5-28b1-4cde-9850-1816c1b93e31">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#244;o'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#244;o'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#244;o'</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">do</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="5858b15d-f109-4695-a1c9-55fe90439e2f">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+										<item type="gls" lang="pt-BR">como.&#233;</item>
+										<item type="gls" lang="en">how.is.it</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">como.&#233;</item>
+								<item type="gls" lang="en">how.it.is</item>
+								<item type="pos" lang="en">pro-form</item>
+							</word>
+							<word guid="96f28691-440b-47a7-b060-3d2dffe66f0a">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xa'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">pat noo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">pat noo</item>
+										<item type="gls" lang="pt-BR">louro</item>
+										<item type="gls" lang="en">laurel</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">louro</item>
+								<item type="gls" lang="en">laurel</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="d981835a-98c6-403e-bee0-2d8aafe72da2">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#227;'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#227;'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">n&#227;'</item>
+										<item type="gls" lang="pt-BR">para.que</item>
+										<item type="gls" lang="en">so.that </item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">para.que</item>
+								<item type="gls" lang="en">so.that </item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">l&#225; n&#243;s tiramos louro pra fazer canoa</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="a7fcbbeb-7efd-404a-9d78-91eca4875a6d">
+						<item type="segnum" lang="en">1.4</item>
+						<words>
+							<word guid="9e079d9e-3468-4742-b301-fd39e53bde91">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ab&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ab&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="variantTypes" lang="pt-BR">+fr. var. of</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">isso-a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="d2f5effe-6c99-4af2-a05c-0dfc158fe536">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kaaw</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kaaw</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">kaaw</item>
+										<item type="gls" lang="pt-BR">derrubar</item>
+										<item type="gls" lang="en">cut.down.tree</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ro&#231;ar</item>
+								<item type="gls" lang="en">slash</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="89750941-ce50-4f3f-b43b-def844b2de97">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+										<item type="gls" lang="pt-BR">depois</item>
+										<item type="gls" lang="en">after</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois</item>
+								<item type="gls" lang="en">after</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="b9e046c9-05de-435e-9de8-2a8b438ce5e8">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#245;k</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#245;k</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#245;k</item>
+										<item type="gls" lang="pt-BR">cortar</item>
+										<item type="gls" lang="en">cut</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">cortar</item>
+								<item type="gls" lang="en">cut</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">a&#237; n&#243;s derrubamos, depois cortamos</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="aa166614-0510-4367-8718-2b12f696826d">
+						<item type="segnum" lang="en">1.5</item>
+						<words>
+							<word guid="89750941-ce50-4f3f-b43b-def844b2de97">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+										<item type="gls" lang="pt-BR">depois</item>
+										<item type="gls" lang="en">after</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois</item>
+								<item type="gls" lang="en">after</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="bbffec01-27fb-454a-af31-e8ba06817686">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="gls" lang="pt-BR">dentro</item>
+										<item type="gls" lang="en">in/inside</item>
+										<item type="msa" lang="en">post</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dentro</item>
+								<item type="gls" lang="en">in/inside</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="d029d94a-fbea-4632-8d29-b3c01cae3138">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">cavar</item>
+								<item type="gls" lang="en">dig</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">depois a gente cava</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="7d95869e-d636-4e7d-a238-ce11db380a10">
+						<item type="segnum" lang="en">1.6</item>
+						<words>
+							<word guid="2f890938-47ca-4bcd-927b-f735157d1641">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">aa'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">aa</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">aa</item>
+										<item type="gls" lang="pt-BR">aquele/ aquela/ aquil ANAF.</item>
+										<item type="gls" lang="en" />
+										<item type="msa" lang="en">pro</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">aquele/ aquela/ aquilo.ANAF.</item>
+								<item type="gls" lang="en">that.ANAPH</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="77fdc890-fa67-4b73-a179-55223c20594d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="gls" lang="pt-BR">tentar</item>
+										<item type="gls" lang="en">try</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">tentar</item>
+								<item type="gls" lang="en">try</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="1ed5ab11-4f02-49f4-a733-6aee8f7fb44d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">m&#227;j</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">m&#227;j</item>
+										<item type="gls" lang="pt-BR">assim.mesmo</item>
+										<item type="gls" lang="en">like.this</item>
+										<item type="msa" lang="en">prt</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">assim.mesmo</item>
+								<item type="gls" lang="en">like.this</item>
+								<item type="pos" lang="en">prt</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">essa canoa eu fiz s&#243; para testar</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="968b603e-cdb6-45ad-bf8e-608773697ae5">
+						<item type="segnum" lang="en">1.7</item>
+						<words>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="6a12a513-853d-4c12-a8a7-896c4a815ade">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">par&#7869;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">par</item>
+										<item type="gls" lang="pt-BR">saber</item>
+										<item type="gls" lang="en">know</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#7869;r</item>
+										<item type="gls" lang="pt-BR">NEG</item>
+										<item type="gls" lang="en">NEG</item>
+										<item type="msa" lang="en">Attaches to any category</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">saber-NEG</item>
+								<item type="gls" lang="en">know-NEG</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="77fdc890-fa67-4b73-a179-55223c20594d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="gls" lang="pt-BR">tentar</item>
+										<item type="gls" lang="en">try</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">tentar</item>
+								<item type="gls" lang="en">try</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="33c49ae1-f27e-416f-a0c8-c365403ec573">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#649;&#649;d</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">eu n&#227;o sei fazer canoa, eu fiz pra testar</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="44222311-6401-4bd3-86e8-990f7849ea2e">
+						<item type="segnum" lang="en">1.8</item>
+						<words>
+							<word guid="9e079d9e-3468-4742-b301-fd39e53bde91">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ab&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ab&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="variantTypes" lang="pt-BR">+fr. var. of</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">isso-a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="0ceef00c-1b32-4e56-a38d-bfdc27f482bc">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">reew</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">reew</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">reew</item>
+										<item type="gls" lang="pt-BR">ter/haver.muito</item>
+										<item type="gls" lang="en">have.a.lot</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ter.muito</item>
+								<item type="gls" lang="en">exist.a.lot</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="f664520a-8bdb-43bf-94ae-f0e964f55a87">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;t</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;t</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">w&#226;t</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">dia</item>
+										<item type="gls" lang="en">day</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dia</item>
+								<item type="gls" lang="en">day</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">a gente fez durante v&#225;rios dias</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="6d6f6185-7264-4240-9f13-08d88e63028d">
+						<item type="segnum" lang="en">1.9</item>
+						<words>
+							<word guid="a6e38f24-7105-423a-997f-df595a5b3f6e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;at</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;t</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">w&#226;t</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+										<item type="gls" lang="pt-BR">dia</item>
+										<item type="gls" lang="en">day</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dia</item>
+								<item type="gls" lang="en">day</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="86d0f862-c666-4377-a0e1-939ecb60bf36">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">'waap</item>
+								<morphemes>
+									<morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">'waap</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">'waap</item>
+										<item type="gls" lang="pt-BR">todo</item>
+										<item type="gls" lang="en">all</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">todo</item>
+								<item type="gls" lang="en">all</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="efb5b0ed-9a7b-4ae4-9ea8-4b696025484e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#227;m&#7869;r</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#227;m</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#227;m</item>
+										<item type="gls" lang="pt-BR">ir</item>
+										<item type="gls" lang="en">go</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#7869;r</item>
+										<item type="gls" lang="pt-BR">NEG</item>
+										<item type="gls" lang="en">NEG</item>
+										<item type="msa" lang="en">Attaches to any category</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ir</item>
+								<item type="gls" lang="en">go</item>
+							</word>
+							<word guid="954e9ef3-160f-4e39-8438-fcbd20673bd3">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">uy</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">uy</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">PQ</item>
+								<item type="gls" lang="en" />
+								<item type="pos" />
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">porque a gente n&#227;o vai todo dia</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="a67e32e2-2478-4aac-a421-7d4444f5f9bf">
+						<item type="segnum" lang="en">1.10</item>
+						<words>
+							<word guid="2f890938-47ca-4bcd-927b-f735157d1641">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">aa'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">aa</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">aa</item>
+										<item type="gls" lang="pt-BR">aquele/ aquela/ aquil ANAF.</item>
+										<item type="gls" lang="en" />
+										<item type="msa" lang="en">pro</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">aquele/ aquela/ aquilo.ANAF.</item>
+								<item type="gls" lang="en">that.ANAPH</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="96f28691-440b-47a7-b060-3d2dffe66f0a">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xa'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">pat noo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">pat noo</item>
+										<item type="gls" lang="pt-BR">louro</item>
+										<item type="gls" lang="en">laurel</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">louro</item>
+								<item type="gls" lang="en">laurel</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="e020bca1-2d3b-4e35-9e49-f0dc9516816f">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">taa'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">taa'</item>
+									</morph>
+								</morphemes>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">a canoa &#233; feita de louro</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="fd481c50-18e8-4682-aa0e-e1575a57e3a1">
+						<item type="segnum" lang="en">1.11</item>
+						<words>
+							<word guid="89750941-ce50-4f3f-b43b-def844b2de97">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">jaay</item>
+										<item type="gls" lang="pt-BR">depois</item>
+										<item type="gls" lang="en">after</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois</item>
+								<item type="gls" lang="en">after</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="2b707a99-6745-409b-8247-e61e9101fe71">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="bbffec01-27fb-454a-af31-e8ba06817686">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="gls" lang="pt-BR">dentro</item>
+										<item type="gls" lang="en">in/inside</item>
+										<item type="msa" lang="en">post</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dentro</item>
+								<item type="gls" lang="en">in/inside</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="d029d94a-fbea-4632-8d29-b3c01cae3138">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">cavar</item>
+								<item type="gls" lang="en">dig</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="6298e367-5eb1-4a5e-b9e6-c06b297d4c43">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#361;t</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#361;t</item>
+									</morph>
+								</morphemes>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">depois de ter feito a canoa, a gente cava por dentro</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="17339ebf-e976-4885-a9fa-2c6a92ecb20a">
+						<item type="segnum" lang="en">1.12</item>
+						<words>
+							<word guid="2b707a99-6745-409b-8247-e61e9101fe71">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="ebe58ee1-39a5-424e-b15f-ccca8e0c261e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ajaay</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ajaay</item>
+										<item type="gls" lang="pt-BR">depois.de.pouco.tempo</item>
+										<item type="gls" lang="en">after.a.short.time</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois.de.pouco.tempo</item>
+								<item type="gls" lang="en">after.a.short.time</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="bbffec01-27fb-454a-af31-e8ba06817686">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="gls" lang="pt-BR">dentro</item>
+										<item type="gls" lang="en">in/inside</item>
+										<item type="msa" lang="en">post</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dentro</item>
+								<item type="gls" lang="en">in/inside</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="3540aa79-f231-476c-beec-329fe9a05c90">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+										<item type="gls" lang="pt-BR">p&#244;r.fogo.trans</item>
+										<item type="gls" lang="en">set.fire.trans</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">p&#244;r.fogo</item>
+								<item type="gls" lang="en">set.fire</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="2f890938-47ca-4bcd-927b-f735157d1641">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">aa'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">aa</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">aa</item>
+										<item type="gls" lang="pt-BR">aquele/ aquela/ aquil ANAF.</item>
+										<item type="gls" lang="en" />
+										<item type="msa" lang="en">pro</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">aquele/ aquela/ aquilo.ANAF.</item>
+								<item type="gls" lang="en">that.ANAPH</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">depois de terminar de cavar por dentro, a gente queima a canoa</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="999416e3-15f2-477d-94c0-21ed933f7a55">
+						<item type="segnum" lang="en">1.13</item>
+						<words>
+							<word guid="2b707a99-6745-409b-8247-e61e9101fe71">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="bbffec01-27fb-454a-af31-e8ba06817686">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ked</item>
+										<item type="gls" lang="pt-BR">dentro</item>
+										<item type="gls" lang="en">in/inside</item>
+										<item type="msa" lang="en">post</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dentro</item>
+								<item type="gls" lang="en">in/inside</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="3540aa79-f231-476c-beec-329fe9a05c90">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+										<item type="gls" lang="pt-BR">p&#244;r.fogo.trans</item>
+										<item type="gls" lang="en">set.fire.trans</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">p&#244;r.fogo</item>
+								<item type="gls" lang="en">set.fire</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="9108d206-e5fe-464f-a0bb-8772fcc25f41">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#361;y</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#361;y</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#361;y</item>
+										<item type="gls" lang="pt-BR">aquilo</item>
+										<item type="gls" lang="en">that</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">aquilo</item>
+								<item type="gls" lang="en">that</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="26b0f380-a41e-4b8c-9100-efcb9692eba1">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">m&#227;a'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">m&#227;a'</item>
+										<item type="gls" lang="pt-BR">depois</item>
+										<item type="gls" lang="en">after</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois</item>
+								<item type="gls" lang="en">after</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="87006009-378a-448b-9940-36a8436f40c6">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">peem</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">peem</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">peem</item>
+										<item type="gls" lang="pt-BR">sentar </item>
+										<item type="gls" lang="en">sit</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">sentar </item>
+								<item type="gls" lang="en">sit</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="f4404994-9bbd-422a-9d71-6544bd796f68">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoot</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoot</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoot</item>
+										<item type="gls" lang="pt-BR">lugar </item>
+										<item type="gls" lang="en">place</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">lugar</item>
+								<item type="gls" lang="en">place</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="953af1ba-b825-42aa-8b08-cf67d1d6a00e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#227;agn'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#227;agn'</item>
+										<item type="gls" lang="pt-BR">banco</item>
+										<item type="gls" lang="en">seat</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">banco</item>
+								<item type="gls" lang="en">seat</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="3287a762-f609-4ea5-9f50-4de69d5cb6f7">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">pay</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">pay</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">pay</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">usar</item>
+								<item type="gls" lang="en">use</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">depois de queima a canoa, a gente faz banco para as pessoas sentarem</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="ff5e1236-c339-44c5-b8b9-07cfe69d34e6">
+						<item type="segnum" lang="en">1.14</item>
+						<words>
+							<word guid="0c0b3296-3675-4020-913a-ca5134cb6001">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kas</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kas</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">quando</item>
+								<item type="gls" lang="en">when</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="2c918181-cd77-4d8e-b222-1c04e5469c11">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r&#649;&#771;&#649;y'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+									<morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">-&#649;&#771;&#649;y'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">-&#649;&#771;&#649;y'</item>
+										<item type="gls" lang="pt-BR">OBJ</item>
+										<item type="gls" lang="en">OBJ</item>
+										<item type="msa" lang="en">n:Any</item>
+									</morph>
+								</morphemes>
+							</word>
+							<word guid="26b0f380-a41e-4b8c-9100-efcb9692eba1">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">m&#227;a'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">m&#227;a'</item>
+										<item type="gls" lang="pt-BR">depois</item>
+										<item type="gls" lang="en">after</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois</item>
+								<item type="gls" lang="en">after</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="2880a21b-3575-4ce7-af07-defb34171f23">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#226;ak</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#226;ak</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">x&#226;ak</item>
+										<item type="gls" lang="pt-BR">puxar</item>
+										<item type="gls" lang="en">pull</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">puxar</item>
+								<item type="gls" lang="en">pull</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="190e0c42-7689-4a56-a17e-f3b495a740c3">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#244;b</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#244;b</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">descer</item>
+								<item type="gls" lang="en">down</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">depois quando a gente acaba de fazer, a pessoa vem puxando ela pelo caminho</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="656e6f18-ee55-4c54-b44a-48a7870152b2">
+						<item type="segnum" lang="en">1.15</item>
+						<words>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="4becbcce-b08b-459f-aa53-ddea7cb83a75">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;r</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;r</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;r</item>
+										<item type="gls" lang="pt-BR">pensar</item>
+										<item type="gls" lang="en">think</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pensar</item>
+								<item type="gls" lang="en">think</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="40f31236-cf86-4890-8790-ad237aea5633">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#649;&#649;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#649;&#649;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">w&#649;&#649;d</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">4</item>
+										<item type="gls" lang="pt-BR">ser?</item>
+										<item type="gls" lang="en">be?</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ser.(passado)/possibilidade.de.ser</item>
+								<item type="gls" lang="en">be.past/possibility</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="1f689cce-3af1-47a0-a6f2-e1eaf44e10eb">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o&#7869;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+										<item type="gls" lang="pt-BR">dif&#237;cil</item>
+										<item type="gls" lang="en">difficult</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#7869;r</item>
+										<item type="gls" lang="pt-BR">NEG</item>
+										<item type="gls" lang="en">NEG</item>
+										<item type="msa" lang="en">Attaches to any category</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dif&#237;cil-NEG</item>
+								<item type="gls" lang="en">difficult-NEG</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">eu pensava que canoa era facil de fazer mais &#233; muito dificil</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="7361a12d-b9aa-44e2-8d5a-f7a6a444438b">
+						<item type="segnum" lang="en">1.16</item>
+						<words>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="2220109e-e3b0-46ed-996d-473c6a21eb54">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+										<item type="gls" lang="pt-BR">dif&#237;cil</item>
+										<item type="gls" lang="en">difficult</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dif&#237;cil</item>
+								<item type="gls" lang="en">difficult</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="f0fe6895-1949-45bf-b079-606e6dfc1947">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="gls" lang="pt-BR">muito</item>
+										<item type="gls" lang="en">a.lot</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">muito</item>
+								<item type="gls" lang="en">a.lot</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="20a60164-2d8f-4be2-97ec-63e9dddf0a7e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="gls" lang="pt-BR">INTENS</item>
+										<item type="gls" lang="en">INTENS</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">INTENS</item>
+								<item type="gls" lang="en">INTENS</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">&#233; muito dificil fazer canoa</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="f5c9f23b-fdb6-4995-85ee-31458ac5b235">
+						<item type="segnum" lang="en">1.17</item>
+						<words>
+							<word guid="2220109e-e3b0-46ed-996d-473c6a21eb54">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+										<item type="gls" lang="pt-BR">dif&#237;cil</item>
+										<item type="gls" lang="en">difficult</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dif&#237;cil</item>
+								<item type="gls" lang="en">difficult</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="f0fe6895-1949-45bf-b079-606e6dfc1947">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="gls" lang="pt-BR">muito</item>
+										<item type="gls" lang="en">a.lot</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">muito</item>
+								<item type="gls" lang="en">a.lot</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="20a60164-2d8f-4be2-97ec-63e9dddf0a7e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="gls" lang="pt-BR">INTENS</item>
+										<item type="gls" lang="en">INTENS</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">INTENS</item>
+								<item type="gls" lang="en">INTENS</item>
+							</word>
+							<word guid="ea1f2bb5-6f7f-4e82-8b00-d5af1a7dc1f4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ti'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ti'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ti'</item>
+										<item type="gls" lang="pt-BR">adjetivador</item>
+										<item type="gls" lang="en">adjectivizer</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">adjetivador</item>
+								<item type="gls" lang="en" />
+							</word>
+							<word guid="4fdc6d72-0ac4-4f73-9de0-f3f8f87b8131">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">be'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">be'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">be'</item>
+										<item type="gls" lang="pt-BR">ser.duro.material</item>
+										<item type="gls" lang="en">be.hard.material</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ser.duro.material</item>
+								<item type="gls" lang="en">be.hard.material</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="1b283446-92c3-42aa-8c68-cfd82f69ab9d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">bee</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">bee</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">bee</item>
+										<item type="gls" lang="pt-BR">&#225;rvore</item>
+										<item type="gls" lang="en">tree</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">&#225;rvore</item>
+								<item type="gls" lang="en">tree</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="738723be-6c36-4220-be72-f37111473069">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#361;'</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">&#233; muito dif&#769;icil, a madeira &#769;e muito dura</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="72aa1b96-6aa3-4867-ab59-8104f77f2d34">
+						<item type="segnum" lang="en">1.18</item>
+						<words>
+							<word guid="68974866-11cf-43c2-9bf8-9e5bd3d58b01">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#7869;k</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#7869;k</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">Pt:tem.que</item>
+								<item type="gls" lang="en">Pt:must</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="d029d94a-fbea-4632-8d29-b3c01cae3138">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">kon</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">cavar</item>
+								<item type="gls" lang="en">dig</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="8a58a8fe-9007-4c28-8eff-7723765d5373">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;es</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;es</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">t&#234;es</item>
+										<item type="gls" lang="pt-BR">cortar</item>
+										<item type="gls" lang="en">cut</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">cortar</item>
+								<item type="gls" lang="en">cut</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="f0fe6895-1949-45bf-b079-606e6dfc1947">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="gls" lang="pt-BR">muito</item>
+										<item type="gls" lang="en">a.lot</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">muito</item>
+								<item type="gls" lang="en">a.lot</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="f6b42fd8-9da1-4ab9-828b-91838176b80b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="gls" lang="pt-BR">querer</item>
+										<item type="gls" lang="en">want</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">querer</item>
+								<item type="gls" lang="en">want</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="1e74be5d-d4b2-4e89-9924-bc16f8b99445">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#649;&#771;&#649;</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#649;&#771;&#649;</item>
+										<item type="gls" lang="pt-BR">ajeitar</item>
+										<item type="gls" lang="en">straighten</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ajeitar</item>
+								<item type="gls" lang="en">straighten</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="f8f0aba5-43ef-4426-b65d-204084495999">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;y</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;y</item>
+										<item type="gls" lang="pt-BR">ver</item>
+										<item type="gls" lang="en">see</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ver</item>
+								<item type="gls" lang="en">see</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="fbad31b2-bf4f-42a1-a4f1-9b696599fd8b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#361;'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#361;'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#361;'</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">tudo</item>
+								<item type="gls" lang="en">all</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">tem que cavar, cortar muito, ajeitar, ver tudo</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="f866b336-f9f4-45d4-a6f6-015541bdbe03">
+						<item type="segnum" lang="en">1.19</item>
+						<words>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="673a4319-0b7a-40c5-9452-96adba9981cf">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#7869;n</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#7869;n</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">&#7869;n</item>
+										<item type="gls" lang="pt-BR">se</item>
+										<item type="gls" lang="en">if</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">quando</item>
+								<item type="gls" lang="en">when</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">quando a gente faz canoa</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="6234c5cf-6e53-4e81-aa9c-ceffbe45e139">
+						<item type="segnum" lang="en">1.20</item>
+						<words>
+							<word guid="e6ec1d8e-cabd-46d6-98c9-0eb2dbb0d86b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">was&#244;o</item>
+										<item type="gls" lang="pt-BR">dif&#237;cil</item>
+										<item type="gls" lang="en">difficult</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dif&#237;cil</item>
+								<item type="gls" lang="en">difficult</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="26f026b6-9190-4cee-883a-e8f51f5dbb20">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">p&#649;&#649;d</item>
+										<item type="gls" lang="pt-BR">muito</item>
+										<item type="gls" lang="en">a.lot</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">muito</item>
+								<item type="gls" lang="en">a.lot</item>
+								<item type="pos" lang="en">adj</item>
+							</word>
+							<word guid="f6b42fd8-9da1-4ab9-828b-91838176b80b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">y&#234;d</item>
+										<item type="gls" lang="pt-BR">querer</item>
+										<item type="gls" lang="en">want</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">querer</item>
+								<item type="gls" lang="en">want</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="c7c56330-d445-4ce1-9bb0-9b8ef9473126">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">3</item>
+										<item type="gls" lang="pt-BR">agora</item>
+										<item type="gls" lang="en">now</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">agora</item>
+								<item type="gls" lang="en">now</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="02bc2a6b-e2c1-4a22-b535-f105c28915d0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;y'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#226;y'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">w&#226;y'</item>
+										<item type="gls" lang="pt-BR">ver</item>
+										<item type="gls" lang="en">see</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">ver</item>
+								<item type="gls" lang="en">see</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">&#233; muito dificil, agora eu vejo</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="79921a44-cae8-4179-b50e-00f69b27f243">
+						<item type="segnum" lang="en">1.21</item>
+						<words>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="05c63c6c-3e7a-49f9-80d2-4e86de7cd91e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xup</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xup</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xup</item>
+										<item type="gls" lang="pt-BR">mesmo</item>
+										<item type="gls" lang="en">same</item>
+										<item type="msa" lang="en">&lt;Not Sure&gt;</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">mesmo</item>
+								<item type="gls" lang="en">same</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="8677d0d8-7d3c-4043-a0da-a09468f0a2db">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#649;d</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">w&#649;d</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">INTENS?</item>
+								<item type="gls" lang="en" />
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="8efe222f-1f28-4293-a6b0-aa013790acd4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="53447b59-4834-4a6e-9b49-07bdce1ee185">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">porque eu mesmo fiz a canoa</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="243fcb67-d4b5-4f6b-a13e-d9f85276ff03">
+						<item type="segnum" lang="en">1.22</item>
+						<words>
+							<word guid="16ddbd2c-81cc-44cf-9438-bc6866cf86b0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="77fdc890-fa67-4b73-a179-55223c20594d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="gls" lang="pt-BR">tentar</item>
+										<item type="gls" lang="en">try</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">tentar</item>
+								<item type="gls" lang="en">try</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="954e9ef3-160f-4e39-8438-fcbd20673bd3">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">uy</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">uy</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">PQ</item>
+								<item type="gls" lang="en" />
+								<item type="pos" />
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">pra experimentar</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="1ba9076b-8258-4f52-ae11-dd4630a94184">
+						<item type="segnum" lang="en">1.23</item>
+						<words>
+							<word guid="2b707a99-6745-409b-8247-e61e9101fe71">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">b&#649;g</item>
+										<item type="gls" lang="pt-BR">a&#237;</item>
+										<item type="gls" lang="en">then</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">a&#237;</item>
+								<item type="gls" lang="en">then</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="cf771583-32e3-4193-83ce-874be0c90d3b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="3540aa79-f231-476c-beec-329fe9a05c90">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">x&#244;oy</item>
+										<item type="gls" lang="pt-BR">p&#244;r.fogo.trans</item>
+										<item type="gls" lang="en">set.fire.trans</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">p&#244;r.fogo</item>
+								<item type="gls" lang="en">set.fire</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="fbad31b2-bf4f-42a1-a4f1-9b696599fd8b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#361;'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#361;'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#361;'</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">1</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">tudo</item>
+								<item type="gls" lang="en">all</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">a&#237; a gente queima tudo</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="f97377e7-4880-421a-b031-d1222fc46a47">
+						<item type="segnum" lang="en">1.24</item>
+						<words>
+							<word guid="abcd231e-b224-4493-b62b-80844d357dbf">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#227;a'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">r&#227;a'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">r&#227;a'</item>
+										<item type="gls" lang="pt-BR">deixar</item>
+										<item type="gls" lang="en">leave</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">deixar</item>
+								<item type="gls" lang="en">leave</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="369c90ef-8b62-46e7-8360-fe21f8c2fdae">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">tir</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">tir</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">tir</item>
+										<item type="gls" lang="pt-BR">3SG</item>
+										<item type="gls" lang="en">3SG</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">3SG</item>
+								<item type="gls" lang="en">3SG</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="953af1ba-b825-42aa-8b08-cf67d1d6a00e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#227;agn'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">b&#227;agn'</item>
+										<item type="gls" lang="pt-BR">banco</item>
+										<item type="gls" lang="en">seat</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">banco</item>
+								<item type="gls" lang="en">seat</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">coloca o banco dela</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="33818708-2b97-4ac8-b2d1-7cbe9300d636">
+						<item type="segnum" lang="en">1.25</item>
+						<words>
+							<word guid="ebe58ee1-39a5-424e-b15f-ccca8e0c261e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ajaay</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ajaay</item>
+										<item type="gls" lang="pt-BR">depois.de.pouco.tempo</item>
+										<item type="gls" lang="en">after.a.short.time</item>
+										<item type="msa" lang="en">adv</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">depois.de.pouco.tempo</item>
+								<item type="gls" lang="en">after.a.short.time</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="017026a7-70ac-48ec-9353-c58a36829d38">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">d&#226;w</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="d6dd673f-4062-4f0c-8f2d-07f5c395eab5">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">voltar</item>
+								<item type="gls" lang="en">go.back</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">depois a gente volta</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="56e4be03-d4a1-4ef2-bc1e-04751e7fcd9b">
+						<item type="segnum" lang="en">1.26</item>
+						<words>
+							<word guid="06d599c3-6dfd-48d5-8071-10958c3cd985">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">yar</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">yar</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR" />
+								<item type="gls" lang="en" />
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="d6dd673f-4062-4f0c-8f2d-07f5c395eab5">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">voltar</item>
+								<item type="gls" lang="en">go.back</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="ea3d571f-3bde-4fc7-8c22-326f00588851">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">tir &#649;&#771;&#649;y'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">tir</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">tir</item>
+										<item type="gls" lang="pt-BR">3SG</item>
+										<item type="gls" lang="en">3SG</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#649;&#771;&#649;y'</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">3SG-OBJ</item>
+								<item type="gls" lang="en">3SG-OBJ</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">a gente tras ela</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="383c600a-d733-4a12-a265-7b677d730752">
+						<item type="segnum" lang="en">1.27</item>
+						<words>
+							<word guid="2880a21b-3575-4ce7-af07-defb34171f23">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#226;ak</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">x&#226;ak</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">x&#226;ak</item>
+										<item type="gls" lang="pt-BR">puxar</item>
+										<item type="gls" lang="en">pull</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">puxar</item>
+								<item type="gls" lang="en">pull</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="9326557e-3c9d-4522-812f-7e2e737600a5">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">voltar</item>
+								<item type="gls" lang="en">go.back</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">puxando</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="94ce3eeb-a6b1-4f2b-bbc7-593eac981f05">
+						<item type="segnum" lang="en">1.28</item>
+						<words>
+							<word guid="e75cc176-902d-454d-8456-7b2e9dd723df">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#244;'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#244;'</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">Pt:ou</item>
+								<item type="gls" lang="en">Pt:or</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="123d0098-4816-4482-a530-f5784620e63d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#244;oy</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#244;oy</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">t&#244;oy</item>
+										<item type="gls" lang="pt-BR">carregar.ombro</item>
+										<item type="gls" lang="en">carry.shoulder</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">carregar.ombro</item>
+								<item type="gls" lang="en">carry.shoulder</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="9326557e-3c9d-4522-812f-7e2e737600a5">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">y&#226;a</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">voltar</item>
+								<item type="gls" lang="en">go.back</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="d1f2985e-aad9-4a74-8cb4-85e8327326f0">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#649;m</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#649;&#649;m</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">t&#649;&#649;m</item>
+										<item type="gls" lang="pt-BR">dois</item>
+										<item type="gls" lang="en">two</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dois</item>
+								<item type="gls" lang="en">two</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="e730a6f9-35e4-4114-beed-cedcf13bb880">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;aw</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">d&#226;aw</item>
+										<item type="gls" lang="pt-BR">pessoa</item>
+										<item type="gls" lang="en">person</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pessoa</item>
+								<item type="gls" lang="en">person</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">ou carrega em duas pessoas</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="d1e7210f-421c-4293-ba47-02b6c974efe7">
+						<item type="segnum" lang="en">1.29</item>
+						<words>
+							<word guid="57c9215f-4fe6-43b6-b625-d21c5e98f73f">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ag</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ag</item>
+										<item type="gls" lang="pt-BR">este.a&#237;</item>
+										<item type="gls" lang="en">this.one</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">este.a&#237;</item>
+								<item type="gls" lang="en">this.one</item>
+								<item type="pos" lang="en">pro-form</item>
+							</word>
+							<word guid="5858b15d-f109-4695-a1c9-55fe90439e2f">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+										<item type="gls" lang="pt-BR">como.&#233;</item>
+										<item type="gls" lang="en">how.is.it</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">como.&#233;</item>
+								<item type="gls" lang="en">how.it.is</item>
+								<item type="pos" lang="en">pro-form</item>
+							</word>
+							<word guid="5040f668-8f61-49f6-8487-a514e970001a">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">xoo</item>
+										<item type="hn" lang="kwa-Latn-BR-x-dwpracti">2</item>
+										<item type="gls" lang="pt-BR">canoa </item>
+										<item type="gls" lang="en">canoe</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">canoa </item>
+								<item type="gls" lang="en">canoe</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="de97c735-e4bc-4e9f-9ab9-d3589082d5a4">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">id</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1PL</item>
+								<item type="gls" lang="en">1PL</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="8370cc76-249c-4b42-bbb2-fa8526271868">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="f1820203-d8be-40e5-92cb-196221dd3630">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#231;em</item>
+							</word>
+							<word guid="480fcbc8-8722-4186-b93b-19fa53c7d04e">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;m&#227;an'</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;m&#227;an'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;m&#227;an'</item>
+										<item type="gls" lang="pt-BR">semana</item>
+										<item type="gls" lang="en">week</item>
+										<item type="msa" lang="en">n</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">semana</item>
+								<item type="gls" lang="en">week</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="a65e2733-24bf-4673-9045-55e65a5df788">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="8370cc76-249c-4b42-bbb2-fa8526271868">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#234;e</item>
+										<item type="gls" lang="pt-BR">fazer</item>
+										<item type="gls" lang="en">make</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">fazer</item>
+								<item type="gls" lang="en">make</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="77fdc890-fa67-4b73-a179-55223c20594d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">s&#227;'&#227;a</item>
+										<item type="gls" lang="pt-BR">tentar</item>
+										<item type="gls" lang="en">try</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">tentar</item>
+								<item type="gls" lang="en">try</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">essa canoa que eu fiz semana passada eu s&#243; testei</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="cd8eb8d7-a434-4424-93e5-7bdb9ad2189c">
+						<item type="segnum" lang="en">1.30</item>
+						<words>
+							<word guid="c5979798-8c29-4e21-9fc6-c4b3c31dcc0f">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#297;i</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#297;i</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">estar, existir, haver</item>
+								<item type="gls" lang="en">be.exist.have</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="1f2cc5b2-eef5-46b4-8afe-6c9f47f67cc2">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">set&#7869;r&#234;y</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">set</item>
+									</morph>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#7869;r</item>
+										<item type="gls" lang="pt-BR">NEG</item>
+										<item type="gls" lang="en">NEG</item>
+										<item type="msa" lang="en">Attaches to any category</item>
+									</morph>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#234;y</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">NEG</item>
+								<item type="gls" lang="en">NEG</item>
+							</word>
+							<word guid="6c404757-3ff2-4dab-b136-1c3eb21eff35">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">pouco</item>
+								<item type="gls" lang="en" />
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word guid="15e7ba48-8bc9-407e-9e74-db0e247b977c">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">rod</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">rod</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">rod</item>
+										<item type="gls" lang="pt-BR">sair</item>
+										<item type="gls" lang="en">leave</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">sair</item>
+								<item type="gls" lang="en">leave</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+							<word guid="7e38699e-8756-41de-8e56-08f7bc446abc">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ti'</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ti'</item>
+									</morph>
+								</morphemes>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">mas saiu um pouco errada</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="6fffdb41-f451-48e2-b915-eb4e3c5b08a9">
+						<item type="segnum" lang="en">1.31</item>
+						<words>
+							<word guid="fa8d2ace-88f9-47fe-b94b-4038b7911803">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kasay</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">kasay</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">feio</item>
+								<item type="gls" lang="en">ugly</item>
+								<item type="pos" lang="en">n</item>
+							</word>
+							<word guid="70cacd36-5789-4b54-98f9-50e841270e82">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">t&#234;en</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">quando.no.presente</item>
+								<item type="gls" lang="en">when.in.present</item>
+								<item type="pos" lang="en">adv</item>
+							</word>
+							<word>
+								<item type="punct" lang="kwa-Latn-BR-x-dwpracti">&#167;</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">um pouco feia</item>
+						<item type="gls" lang="en" />
+					</phrase>
+					<phrase guid="a064bb4b-73db-4939-b759-c8418fc6c8db">
+						<item type="segnum" lang="en">1.32</item>
+						<words>
+							<word guid="57c9215f-4fe6-43b6-b625-d21c5e98f73f">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ag</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ag</item>
+										<item type="gls" lang="pt-BR">este.a&#237;</item>
+										<item type="gls" lang="en">this.one</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">este.a&#237;</item>
+								<item type="gls" lang="en">this.one</item>
+								<item type="pos" lang="en">pro-form</item>
+							</word>
+							<word guid="32097188-e712-4135-859c-5ddf35fd469d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">ray</item>
+										<item type="gls" lang="pt-BR">como.&#233;</item>
+										<item type="gls" lang="en">how.is.it</item>
+										<item type="msa" lang="en">pro-form</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">como.&#233;</item>
+								<item type="gls" lang="en">how.it.is</item>
+								<item type="pos" lang="en">pro-form</item>
+							</word>
+							<word guid="b2dd0f9a-2643-42e0-b280-54419f25ed9d">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">k&#226;'</item>
+								<morphemes>
+									<morph type="particle" guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">k&#226;'</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">k&#226;'</item>
+										<item type="gls" lang="pt-BR">opinativo </item>
+										<item type="gls" lang="en">OPIN</item>
+										<item type="msa" lang="en">prt</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">opinativo </item>
+								<item type="gls" lang="en">OPIN</item>
+								<item type="pos" lang="en">prt</item>
+							</word>
+							<word guid="a65e2733-24bf-4673-9045-55e65a5df788">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+								<morphemes>
+									<morph>
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">&#227;r</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">1S</item>
+								<item type="gls" lang="en">1S</item>
+								<item type="pos" lang="en">pro</item>
+							</word>
+							<word guid="4df85e27-7204-4011-9834-0e2656cd8b9b">
+								<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#227;a</item>
+								<morphemes>
+									<morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
+										<item type="txt" lang="kwa-Latn-BR-x-dwpracti">n&#227;a</item>
+										<item type="cf" lang="kwa-Latn-BR-x-dwpracti">n&#227;a</item>
+										<item type="gls" lang="pt-BR">dizer</item>
+										<item type="gls" lang="en">say</item>
+										<item type="msa" lang="en">v</item>
+									</morph>
+								</morphemes>
+								<item type="gls" lang="pt-BR">dizer</item>
+								<item type="gls" lang="en">say</item>
+								<item type="pos" lang="en">v</item>
+							</word>
+						</words>
+						<item type="gls" lang="pt-BR">&#233; isso que estou falando</item>
+						<item type="gls" lang="en" />
+					</phrase>
+				</phrases>
+			</paragraph>
+		</paragraphs>
+		<languages>
+			<language lang="pt-BR" font="Charis SIL" />
+			<language lang="en" font="Times New Roman" vernacular="true" />
+			<language lang="kwa-Latn-BR-x-dwpracti" font="Charis SIL" vernacular="true" />
+			<language lang="pt" font="Times New Roman" />
+		</languages>
+	</interlinear-text>
+</document>

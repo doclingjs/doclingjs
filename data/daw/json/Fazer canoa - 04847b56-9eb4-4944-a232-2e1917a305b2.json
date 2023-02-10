@@ -1,0 +1,3222 @@
+{
+ "flextext": "Fazer canoa - 04847b56-9eb4-4944-a232-2e1917a305b2.flextext",
+ "title-pt-BR": "Fazer canoa",
+ "1.1": {
+  "full_text": "n\u00e3a' s\u00e3m\u00e3an' \u00e3r n\u00eae xoo\u00a7",
+  "translation-pt-BR": "essa semana eu fiz uma canoa",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "n\u00e3a'",
+    "word_breakdown": "n\u00e3a'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a'",
+      "morph-gls-pt-BR": "este.a\u00ed",
+      "morph-gls-en": "this.one",
+      "morph-msa-en": "pro-form"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "este.a\u00ed",
+    "word_gls-en": "this.one"
+   },
+   {
+    "word_text": "s\u00e3m\u00e3an'",
+    "word_breakdown": "s\u00e3m\u00e3an'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3m\u00e3an'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3m\u00e3an'",
+      "morph-gls-pt-BR": "semana",
+      "morph-gls-en": "week",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "semana",
+    "word_gls-en": "week"
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.2": {
+  "full_text": "b\u0289g id r\u00e3m xaay\u00a7",
+  "translation-pt-BR": "a\u00ed n\u00f3s fomos no mato",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "b\u0289g",
+    "word_breakdown": "b\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "r\u00e3m",
+    "word_breakdown": "r\u00e3m",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+      "morph-gls-pt-BR": "ir",
+      "morph-gls-en": "go",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ir",
+    "word_gls-en": "go"
+   },
+   {
+    "word_text": "xaay",
+    "word_breakdown": "xaay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xaay",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xaay",
+      "morph-gls-pt-BR": "floresta",
+      "morph-gls-en": "forest",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "floresta",
+    "word_gls-en": "forest"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.3": {
+  "full_text": "diid id d\u00f4o' ray xa' xoo id n\u00eae n\u00e3'\u00a7",
+  "translation-pt-BR": "l\u00e1 n\u00f3s tiramos louro pra fazer canoa",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "diid",
+    "word_breakdown": "diid",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "diid",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "diid",
+      "morph-gls-pt-BR": "l\u00e1",
+      "morph-gls-en": "there",
+      "morph-msa-en": "pro-form",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro-form",
+    "word_gls-pt-BR": "l\u00e1",
+    "word_gls-en": "there"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "d\u00f4o'",
+    "word_breakdown": "d\u00f4o'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00f4o'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00f4o'",
+      "morph-msa-en": "v",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "do"
+   },
+   {
+    "word_text": "ray",
+    "word_breakdown": "ray",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ray",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ray",
+      "morph-gls-pt-BR": "como.\u00e9",
+      "morph-gls-en": "how.is.it",
+      "morph-msa-en": "pro-form",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro-form",
+    "word_gls-pt-BR": "como.\u00e9",
+    "word_gls-en": "how.it.is"
+   },
+   {
+    "word_text": "xa'",
+    "word_breakdown": "pat noo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "pat noo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "pat noo",
+      "morph-gls-pt-BR": "louro",
+      "morph-gls-en": "laurel",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "louro",
+    "word_gls-en": "laurel"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "n\u00e3'",
+    "word_breakdown": "n\u00e3'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+      "morph-gls-pt-BR": "para.que",
+      "morph-gls-en": "so.that ",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_gls-pt-BR": "para.que",
+    "word_gls-en": "so.that "
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.4": {
+  "full_text": "ab\u0289g id kaaw jaay id r\u00f5k\u00a7",
+  "translation-pt-BR": "a\u00ed n\u00f3s derrubamos, depois cortamos",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "ab\u0289g",
+    "word_breakdown": "ab\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph-variantTypes-pt-BR": "+fr. var. of",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "isso-a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "kaaw",
+    "word_breakdown": "kaaw",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "kaaw",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "kaaw",
+      "morph-gls-pt-BR": "derrubar",
+      "morph-gls-en": "cut.down.tree",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "ro\u00e7ar",
+    "word_gls-en": "slash"
+   },
+   {
+    "word_text": "jaay",
+    "word_breakdown": "jaay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "jaay",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "jaay",
+      "morph-gls-pt-BR": "depois",
+      "morph-gls-en": "after",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois",
+    "word_gls-en": "after"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "r\u00f5k",
+    "word_breakdown": "r\u00f5k",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00f5k",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00f5k",
+      "morph-gls-pt-BR": "cortar",
+      "morph-gls-en": "cut",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "cortar",
+    "word_gls-en": "cut"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.5": {
+  "full_text": "jaay d\u00e2w ked kon\u00a7",
+  "translation-pt-BR": "depois a gente cava",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "jaay",
+    "word_breakdown": "jaay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "jaay",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "jaay",
+      "morph-gls-pt-BR": "depois",
+      "morph-gls-en": "after",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois",
+    "word_gls-en": "after"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "ked",
+    "word_breakdown": "ked",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-gls-pt-BR": "dentro",
+      "morph-gls-en": "in/inside",
+      "morph-msa-en": "post",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "dentro",
+    "word_gls-en": "in/inside"
+   },
+   {
+    "word_text": "kon",
+    "word_breakdown": "kon",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "cavar",
+    "word_gls-en": "dig"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.6": {
+  "full_text": "aa' xoo \u00e3r n\u00eae s\u00e3'\u00e3a m\u00e3j\u00a7",
+  "translation-pt-BR": "essa canoa eu fiz s\u00f3 para testar",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "aa'",
+    "word_breakdown": "aa",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "aa",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "aa",
+      "morph-gls-pt-BR": "aquele/ aquela/ aquil ANAF.",
+      "morph-gls-en": null,
+      "morph-msa-en": "pro",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "aquele/ aquela/ aquilo.ANAF.",
+    "word_gls-en": "that.ANAPH"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "s\u00e3'\u00e3a",
+    "word_breakdown": "s\u00e3'\u00e3a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-gls-pt-BR": "tentar",
+      "morph-gls-en": "try",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "tentar",
+    "word_gls-en": "try"
+   },
+   {
+    "word_text": "m\u00e3j",
+    "word_breakdown": "m\u00e3j",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3j",
+      "morph-gls-pt-BR": "assim.mesmo",
+      "morph-gls-en": "like.this",
+      "morph-msa-en": "prt"
+     }
+    ],
+    "word_pos-en": "prt",
+    "word_gls-pt-BR": "assim.mesmo",
+    "word_gls-en": "like.this"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.7": {
+  "full_text": "\u00e3r n\u00eae par\u1ebdr xoo \u00e3r s\u00e3'\u00e3a y\u0289\u0289d\u00a7",
+  "translation-pt-BR": "eu n\u00e3o sei fazer canoa, eu fiz pra testar",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "par\u1ebdr",
+    "word_breakdown": "par\u1ebdr",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "par",
+      "morph-gls-pt-BR": "saber",
+      "morph-gls-en": "know",
+      "morph-msa-en": "v"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u1ebdr",
+      "morph-gls-pt-BR": "NEG",
+      "morph-gls-en": "NEG",
+      "morph-msa-en": "Attaches to any category"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "saber-NEG",
+    "word_gls-en": "know-NEG"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "s\u00e3'\u00e3a",
+    "word_breakdown": "s\u00e3'\u00e3a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-gls-pt-BR": "tentar",
+      "morph-gls-en": "try",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "tentar",
+    "word_gls-en": "try"
+   },
+   {
+    "word_text": "y\u0289\u0289d",
+    "word_breakdown": "",
+    "morphs": []
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.8": {
+  "full_text": "ab\u0289g id n\u00eae reew w\u00e2t\u00a7",
+  "translation-pt-BR": "a gente fez durante v\u00e1rios dias",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "ab\u0289g",
+    "word_breakdown": "ab\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph-variantTypes-pt-BR": "+fr. var. of",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "isso-a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "reew",
+    "word_breakdown": "reew",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "reew",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "reew",
+      "morph-gls-pt-BR": "ter/haver.muito",
+      "morph-gls-en": "have.a.lot",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ter.muito",
+    "word_gls-en": "exist.a.lot"
+   },
+   {
+    "word_text": "w\u00e2t",
+    "word_breakdown": "w\u00e2t",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u00e2t",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "w\u00e2t",
+      "morph-gls-pt-BR": "dia",
+      "morph-gls-en": "day",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "dia",
+    "word_gls-en": "day"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.9": {
+  "full_text": "w\u00e2at 'waap id r\u00e3m\u1ebdr uy\u00a7",
+  "translation-pt-BR": "porque a gente n\u00e3o vai todo dia",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "w\u00e2at",
+    "word_breakdown": "w\u00e2t",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u00e2t",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "w\u00e2t",
+      "morph-gls-pt-BR": "dia",
+      "morph-gls-en": "day",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "dia",
+    "word_gls-en": "day"
+   },
+   {
+    "word_text": "'waap",
+    "word_breakdown": "'waap",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "'waap",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "'waap",
+      "morph-gls-pt-BR": "todo",
+      "morph-gls-en": "all",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "stem"
+     }
+    ],
+    "word_gls-pt-BR": "todo",
+    "word_gls-en": "all"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "r\u00e3m\u1ebdr",
+    "word_breakdown": "r\u00e3m\u1ebdr",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+      "morph-gls-pt-BR": "ir",
+      "morph-gls-en": "go",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u1ebdr",
+      "morph-gls-pt-BR": "NEG",
+      "morph-gls-en": "NEG",
+      "morph-msa-en": "Attaches to any category"
+     }
+    ],
+    "word_gls-pt-BR": "ir",
+    "word_gls-en": "go"
+   },
+   {
+    "word_text": "uy",
+    "word_breakdown": "uy",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "uy"
+     }
+    ],
+    "pos": "",
+    "word_gls-pt-BR": "PQ",
+    "word_gls-en": null
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.10": {
+  "full_text": "aa' xoo xa' taa'\u00a7",
+  "translation-pt-BR": "a canoa \u00e9 feita de louro",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "aa'",
+    "word_breakdown": "aa",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "aa",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "aa",
+      "morph-gls-pt-BR": "aquele/ aquela/ aquil ANAF.",
+      "morph-gls-en": null,
+      "morph-msa-en": "pro",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "aquele/ aquela/ aquilo.ANAF.",
+    "word_gls-en": "that.ANAPH"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "xa'",
+    "word_breakdown": "pat noo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "pat noo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "pat noo",
+      "morph-gls-pt-BR": "louro",
+      "morph-gls-en": "laurel",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "louro",
+    "word_gls-en": "laurel"
+   },
+   {
+    "word_text": "taa'",
+    "word_breakdown": "taa'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "taa'"
+     }
+    ],
+    "word_pos-en": "adj"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.11": {
+  "full_text": "jaay d\u00e2w n\u00eae b\u0289g d\u00e2w ked kon y\u0169t\u00a7",
+  "translation-pt-BR": "depois de ter feito a canoa, a gente cava por dentro",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "jaay",
+    "word_breakdown": "jaay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "jaay",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "jaay",
+      "morph-gls-pt-BR": "depois",
+      "morph-gls-en": "after",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois",
+    "word_gls-en": "after"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "b\u0289g",
+    "word_breakdown": "b\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "ked",
+    "word_breakdown": "ked",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-gls-pt-BR": "dentro",
+      "morph-gls-en": "in/inside",
+      "morph-msa-en": "post",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "dentro",
+    "word_gls-en": "in/inside"
+   },
+   {
+    "word_text": "kon",
+    "word_breakdown": "kon",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "cavar",
+    "word_gls-en": "dig"
+   },
+   {
+    "word_text": "y\u0169t",
+    "word_breakdown": "y\u0169t",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t"
+     }
+    ],
+    "word_pos-en": "v"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.12": {
+  "full_text": "b\u0289g ajaay d\u00e2w ked x\u00f4oy aa' xoo\u00a7",
+  "translation-pt-BR": "depois de terminar de cavar por dentro, a gente queima a canoa",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "b\u0289g",
+    "word_breakdown": "b\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "ajaay",
+    "word_breakdown": "ajaay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ajaay",
+      "morph-gls-pt-BR": "depois.de.pouco.tempo",
+      "morph-gls-en": "after.a.short.time",
+      "morph-msa-en": "adv"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois.de.pouco.tempo",
+    "word_gls-en": "after.a.short.time"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "ked",
+    "word_breakdown": "ked",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-gls-pt-BR": "dentro",
+      "morph-gls-en": "in/inside",
+      "morph-msa-en": "post",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "dentro",
+    "word_gls-en": "in/inside"
+   },
+   {
+    "word_text": "x\u00f4oy",
+    "word_breakdown": "x\u00f4oy",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00f4oy",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00f4oy",
+      "morph-gls-pt-BR": "p\u00f4r.fogo.trans",
+      "morph-gls-en": "set.fire.trans",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "p\u00f4r.fogo",
+    "word_gls-en": "set.fire"
+   },
+   {
+    "word_text": "aa'",
+    "word_breakdown": "aa",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "aa",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "aa",
+      "morph-gls-pt-BR": "aquele/ aquela/ aquil ANAF.",
+      "morph-gls-en": null,
+      "morph-msa-en": "pro",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "aquele/ aquela/ aquilo.ANAF.",
+    "word_gls-en": "that.ANAPH"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.13": {
+  "full_text": "b\u0289g d\u00e2w ked x\u00f4oy r\u0169y m\u00e3a' d\u00e2w n\u00eae d\u00e2w peem xoot b\u00e3agn' pay\u00a7",
+  "translation-pt-BR": "depois de queima a canoa, a gente faz banco para as pessoas sentarem",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "b\u0289g",
+    "word_breakdown": "b\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "ked",
+    "word_breakdown": "ked",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ked",
+      "morph-gls-pt-BR": "dentro",
+      "morph-gls-en": "in/inside",
+      "morph-msa-en": "post",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "dentro",
+    "word_gls-en": "in/inside"
+   },
+   {
+    "word_text": "x\u00f4oy",
+    "word_breakdown": "x\u00f4oy",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00f4oy",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00f4oy",
+      "morph-gls-pt-BR": "p\u00f4r.fogo.trans",
+      "morph-gls-en": "set.fire.trans",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "p\u00f4r.fogo",
+    "word_gls-en": "set.fire"
+   },
+   {
+    "word_text": "r\u0169y",
+    "word_breakdown": "r\u0169y",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169y",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169y",
+      "morph-gls-pt-BR": "aquilo",
+      "morph-gls-en": "that",
+      "morph-msa-en": "pro-form",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "aquilo",
+    "word_gls-en": "that"
+   },
+   {
+    "word_text": "m\u00e3a'",
+    "word_breakdown": "m\u00e3a'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3a'",
+      "morph-gls-pt-BR": "depois",
+      "morph-gls-en": "after",
+      "morph-msa-en": "adv"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois",
+    "word_gls-en": "after"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "peem",
+    "word_breakdown": "peem",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "peem",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "peem",
+      "morph-gls-pt-BR": "sentar ",
+      "morph-gls-en": "sit",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "sentar ",
+    "word_gls-en": "sit"
+   },
+   {
+    "word_text": "xoot",
+    "word_breakdown": "xoot",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoot",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoot",
+      "morph-gls-pt-BR": "lugar ",
+      "morph-gls-en": "place",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "lugar",
+    "word_gls-en": "place"
+   },
+   {
+    "word_text": "b\u00e3agn'",
+    "word_breakdown": "b\u00e3agn'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u00e3agn'",
+      "morph-gls-pt-BR": "banco",
+      "morph-gls-en": "seat",
+      "morph-msa-en": "n"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "banco",
+    "word_gls-en": "seat"
+   },
+   {
+    "word_text": "pay",
+    "word_breakdown": "pay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "pay",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "pay",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "usar",
+    "word_gls-en": "use"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.14": {
+  "full_text": "kas d\u00e2w n\u00eae \u00e3r\u0289\u0303\u0289y' m\u00e3a' d\u00e2w x\u00e2ak d\u00f4b\u00a7",
+  "translation-pt-BR": "depois quando a gente acaba de fazer, a pessoa vem puxando ela pelo caminho",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "kas",
+    "word_breakdown": "kas",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "kas"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "quando",
+    "word_gls-en": "when"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "\u00e3r\u0289\u0303\u0289y'",
+    "word_breakdown": "\u00e3r-\u0289\u0303\u0289y'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0303\u0289y'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0303\u0289y'",
+      "morph-gls-pt-BR": "OBJ",
+      "morph-gls-en": "OBJ",
+      "morph-msa-en": "n:Any",
+      "morph_type": "suffix"
+     }
+    ],
+    "word_gls-pt-BR": "OBJ",
+    "word_gls-en": "OBJ"
+   },
+   {
+    "word_text": "m\u00e3a'",
+    "word_breakdown": "m\u00e3a'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3a'",
+      "morph-gls-pt-BR": "depois",
+      "morph-gls-en": "after",
+      "morph-msa-en": "adv"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois",
+    "word_gls-en": "after"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "x\u00e2ak",
+    "word_breakdown": "x\u00e2ak",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00e2ak",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00e2ak",
+      "morph-gls-pt-BR": "puxar",
+      "morph-gls-en": "pull",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "puxar",
+    "word_gls-en": "pull"
+   },
+   {
+    "word_text": "d\u00f4b",
+    "word_breakdown": "d\u00f4b",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00f4b"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "descer",
+    "word_gls-en": "down"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.15": {
+  "full_text": "\u00e3r s\u00e3r w\u0289\u0289d xoo d\u00e2w n\u00eae was\u00f4o\u1ebdr\u00a7",
+  "translation-pt-BR": "eu pensava que canoa era facil de fazer mais \u00e9 muito dificil",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "s\u00e3r",
+    "word_breakdown": "s\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3r",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3r",
+      "morph-gls-pt-BR": "pensar",
+      "morph-gls-en": "think",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "pensar",
+    "word_gls-en": "think"
+   },
+   {
+    "word_text": "w\u0289\u0289d",
+    "word_breakdown": "w\u0289\u0289d",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u0289\u0289d",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "w\u0289\u0289d",
+      "morph-gls-pt-BR": "ser?",
+      "morph-gls-en": "be?",
+      "morph-msa-en": "v",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "4",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ser.(passado)/possibilidade.de.ser",
+    "word_gls-en": "be.past/possibility"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "was\u00f4o\u1ebdr",
+    "word_breakdown": "was\u00f4o\u1ebdr",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "was\u00f4o",
+      "morph-gls-pt-BR": "dif\u00edcil",
+      "morph-gls-en": "difficult",
+      "morph-msa-en": "<Not Sure>"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u1ebdr",
+      "morph-gls-pt-BR": "NEG",
+      "morph-gls-en": "NEG",
+      "morph-msa-en": "Attaches to any category"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "dif\u00edcil-NEG",
+    "word_gls-en": "difficult-NEG"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.16": {
+  "full_text": "xoo d\u00e2w n\u00eae was\u00f4o p\u0289\u0289d y\u00ead\u00a7",
+  "translation-pt-BR": "\u00e9 muito dificil fazer canoa",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "was\u00f4o",
+    "word_breakdown": "was\u00f4o",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "was\u00f4o",
+      "morph-gls-pt-BR": "dif\u00edcil",
+      "morph-gls-en": "difficult",
+      "morph-msa-en": "<Not Sure>"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "dif\u00edcil",
+    "word_gls-en": "difficult"
+   },
+   {
+    "word_text": "p\u0289\u0289d",
+    "word_breakdown": "p\u0289\u0289d",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-gls-pt-BR": "muito",
+      "morph-gls-en": "a.lot",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "muito",
+    "word_gls-en": "a.lot"
+   },
+   {
+    "word_text": "y\u00ead",
+    "word_breakdown": "y\u00ead",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-gls-pt-BR": "INTENS",
+      "morph-gls-en": "INTENS",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_gls-pt-BR": "INTENS",
+    "word_gls-en": "INTENS"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.17": {
+  "full_text": "was\u00f4o p\u0289\u0289d y\u00ead ti' be' bee \u0169'\u00a7",
+  "translation-pt-BR": "\u00e9 muito dif\u0301icil, a madeira \u0301e muito dura",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "was\u00f4o",
+    "word_breakdown": "was\u00f4o",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "was\u00f4o",
+      "morph-gls-pt-BR": "dif\u00edcil",
+      "morph-gls-en": "difficult",
+      "morph-msa-en": "<Not Sure>"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "dif\u00edcil",
+    "word_gls-en": "difficult"
+   },
+   {
+    "word_text": "p\u0289\u0289d",
+    "word_breakdown": "p\u0289\u0289d",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-gls-pt-BR": "muito",
+      "morph-gls-en": "a.lot",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "muito",
+    "word_gls-en": "a.lot"
+   },
+   {
+    "word_text": "y\u00ead",
+    "word_breakdown": "y\u00ead",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-gls-pt-BR": "INTENS",
+      "morph-gls-en": "INTENS",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_gls-pt-BR": "INTENS",
+    "word_gls-en": "INTENS"
+   },
+   {
+    "word_text": "ti'",
+    "word_breakdown": "ti'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ti'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ti'",
+      "morph-gls-pt-BR": "adjetivador",
+      "morph-gls-en": "adjectivizer",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_gls-pt-BR": "adjetivador",
+    "word_gls-en": null
+   },
+   {
+    "word_text": "be'",
+    "word_breakdown": "be'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "be'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "be'",
+      "morph-gls-pt-BR": "ser.duro.material",
+      "morph-gls-en": "be.hard.material",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ser.duro.material",
+    "word_gls-en": "be.hard.material"
+   },
+   {
+    "word_text": "bee",
+    "word_breakdown": "bee",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "bee",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "bee",
+      "morph-gls-pt-BR": "\u00e1rvore",
+      "morph-gls-en": "tree",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "\u00e1rvore",
+    "word_gls-en": "tree"
+   },
+   {
+    "word_text": "\u0169'",
+    "word_breakdown": "",
+    "morphs": []
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.18": {
+  "full_text": "t\u1ebdk d\u00e2w kon t\u00eaes p\u0289\u0289d y\u00ead n\u0289\u0303\u0289 w\u00e2y r\u0169'\u00a7",
+  "translation-pt-BR": "tem que cavar, cortar muito, ajeitar, ver tudo",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "t\u1ebdk",
+    "word_breakdown": "t\u1ebdk",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u1ebdk"
+     }
+    ],
+    "word_gls-pt-BR": "Pt:tem.que",
+    "word_gls-en": "Pt:must"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "kon",
+    "word_breakdown": "kon",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "cavar",
+    "word_gls-en": "dig"
+   },
+   {
+    "word_text": "t\u00eaes",
+    "word_breakdown": "t\u00eaes",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00eaes",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u00eaes",
+      "morph-gls-pt-BR": "cortar",
+      "morph-gls-en": "cut",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "cortar",
+    "word_gls-en": "cut"
+   },
+   {
+    "word_text": "p\u0289\u0289d",
+    "word_breakdown": "p\u0289\u0289d",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-gls-pt-BR": "muito",
+      "morph-gls-en": "a.lot",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "muito",
+    "word_gls-en": "a.lot"
+   },
+   {
+    "word_text": "y\u00ead",
+    "word_breakdown": "y\u00ead",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-gls-pt-BR": "querer",
+      "morph-gls-en": "want",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "querer",
+    "word_gls-en": "want"
+   },
+   {
+    "word_text": "n\u0289\u0303\u0289",
+    "word_breakdown": "n\u0289\u0303\u0289",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303\u0289",
+      "morph-gls-pt-BR": "ajeitar",
+      "morph-gls-en": "straighten",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ajeitar",
+    "word_gls-en": "straighten"
+   },
+   {
+    "word_text": "w\u00e2y",
+    "word_breakdown": "w\u00e2y",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u00e2y",
+      "morph-gls-pt-BR": "ver",
+      "morph-gls-en": "see",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ver",
+    "word_gls-en": "see"
+   },
+   {
+    "word_text": "r\u0169'",
+    "word_breakdown": "r\u0169'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "tudo",
+    "word_gls-en": "all"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.19": {
+  "full_text": "xoo d\u00e2w n\u00eae \u1ebdn\u00a7",
+  "translation-pt-BR": "quando a gente faz canoa",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "\u1ebdn",
+    "word_breakdown": "\u1ebdn",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u1ebdn",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "\u1ebdn",
+      "morph-gls-pt-BR": "se",
+      "morph-gls-en": "if",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "quando",
+    "word_gls-en": "when"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.20": {
+  "full_text": "was\u00f4o p\u0289\u0289d y\u00ead t\u00eaen \u00e3r w\u00e2y'\u00a7",
+  "translation-pt-BR": "\u00e9 muito dificil, agora eu vejo",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "was\u00f4o",
+    "word_breakdown": "was\u00f4o",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "was\u00f4o",
+      "morph-gls-pt-BR": "dif\u00edcil",
+      "morph-gls-en": "difficult",
+      "morph-msa-en": "<Not Sure>"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "dif\u00edcil",
+    "word_gls-en": "difficult"
+   },
+   {
+    "word_text": "p\u0289\u0289d",
+    "word_breakdown": "p\u0289\u0289d",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+      "morph-gls-pt-BR": "muito",
+      "morph-gls-en": "a.lot",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adj",
+    "word_gls-pt-BR": "muito",
+    "word_gls-en": "a.lot"
+   },
+   {
+    "word_text": "y\u00ead",
+    "word_breakdown": "y\u00ead",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+      "morph-gls-pt-BR": "querer",
+      "morph-gls-en": "want",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "querer",
+    "word_gls-en": "want"
+   },
+   {
+    "word_text": "t\u00eaen",
+    "word_breakdown": "t\u00eaen",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00eaen",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u00eaen",
+      "morph-gls-pt-BR": "agora",
+      "morph-gls-en": "now",
+      "morph-msa-en": "<Not Sure>",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "3",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "agora",
+    "word_gls-en": "now"
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "w\u00e2y'",
+    "word_breakdown": "w\u00e2y'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u00e2y'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "w\u00e2y'",
+      "morph-gls-pt-BR": "ver",
+      "morph-gls-en": "see",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "ver",
+    "word_gls-en": "see"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.21": {
+  "full_text": "\u00e3r xup w\u0289d \u00e3r n\u00eae xoo\u00a7",
+  "translation-pt-BR": "porque eu mesmo fiz a canoa",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "xup",
+    "word_breakdown": "xup",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xup",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xup",
+      "morph-gls-pt-BR": "mesmo",
+      "morph-gls-en": "same",
+      "morph-msa-en": "<Not Sure>",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "mesmo",
+    "word_gls-en": "same"
+   },
+   {
+    "word_text": "w\u0289d",
+    "word_breakdown": "w\u0289d",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u0289d"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "INTENS?",
+    "word_gls-en": null
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.22": {
+  "full_text": "n\u00eae s\u00e3'\u00e3a uy\u00a7",
+  "translation-pt-BR": "pra experimentar",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "s\u00e3'\u00e3a",
+    "word_breakdown": "s\u00e3'\u00e3a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-gls-pt-BR": "tentar",
+      "morph-gls-en": "try",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "tentar",
+    "word_gls-en": "try"
+   },
+   {
+    "word_text": "uy",
+    "word_breakdown": "uy",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "uy"
+     }
+    ],
+    "pos": "",
+    "word_gls-pt-BR": "PQ",
+    "word_gls-en": null
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.23": {
+  "full_text": "b\u0289g d\u00e2w x\u00f4oy r\u0169'\u00a7",
+  "translation-pt-BR": "a\u00ed a gente queima tudo",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "b\u0289g",
+    "word_breakdown": "b\u0289g",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+      "morph-gls-pt-BR": "a\u00ed",
+      "morph-gls-en": "then",
+      "morph-msa-en": "adv",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "a\u00ed",
+    "word_gls-en": "then"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "x\u00f4oy",
+    "word_breakdown": "x\u00f4oy",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00f4oy",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00f4oy",
+      "morph-gls-pt-BR": "p\u00f4r.fogo.trans",
+      "morph-gls-en": "set.fire.trans",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "p\u00f4r.fogo",
+    "word_gls-en": "set.fire"
+   },
+   {
+    "word_text": "r\u0169'",
+    "word_breakdown": "r\u0169'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "tudo",
+    "word_gls-en": "all"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.24": {
+  "full_text": "r\u00e3a' tir b\u00e3agn'\u00a7",
+  "translation-pt-BR": "coloca o banco dela",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "r\u00e3a'",
+    "word_breakdown": "r\u00e3a'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3a'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3a'",
+      "morph-gls-pt-BR": "deixar",
+      "morph-gls-en": "leave",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "deixar",
+    "word_gls-en": "leave"
+   },
+   {
+    "word_text": "tir",
+    "word_breakdown": "tir",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+      "morph-gls-pt-BR": "3SG",
+      "morph-gls-en": "3SG",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "3SG",
+    "word_gls-en": "3SG"
+   },
+   {
+    "word_text": "b\u00e3agn'",
+    "word_breakdown": "b\u00e3agn'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u00e3agn'",
+      "morph-gls-pt-BR": "banco",
+      "morph-gls-en": "seat",
+      "morph-msa-en": "n"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "banco",
+    "word_gls-en": "seat"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.25": {
+  "full_text": "ajaay d\u00e2w y\u00e2a\u00a7",
+  "translation-pt-BR": "depois a gente volta",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "ajaay",
+    "word_breakdown": "ajaay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ajaay",
+      "morph-gls-pt-BR": "depois.de.pouco.tempo",
+      "morph-gls-en": "after.a.short.time",
+      "morph-msa-en": "adv"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "depois.de.pouco.tempo",
+    "word_gls-en": "after.a.short.time"
+   },
+   {
+    "word_text": "d\u00e2w",
+    "word_breakdown": "d\u00e2w",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "y\u00e2a",
+    "word_breakdown": "y\u00e2a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00e2a"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "voltar",
+    "word_gls-en": "go.back"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.26": {
+  "full_text": "yar y\u00e2a tir \u0289\u0303\u0289y'\u00a7",
+  "translation-pt-BR": "a gente tras ela",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "yar",
+    "word_breakdown": "yar",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "yar"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": null,
+    "word_gls-en": null
+   },
+   {
+    "word_text": "y\u00e2a",
+    "word_breakdown": "y\u00e2a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00e2a"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "voltar",
+    "word_gls-en": "go.back"
+   },
+   {
+    "word_text": "tir \u0289\u0303\u0289y'",
+    "word_breakdown": "tir\u0289\u0303\u0289y'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+      "morph-gls-pt-BR": "3SG",
+      "morph-gls-en": "3SG",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0289\u0303\u0289y'"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "3SG-OBJ",
+    "word_gls-en": "3SG-OBJ"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.27": {
+  "full_text": "x\u00e2ak y\u00e2a\u00a7",
+  "translation-pt-BR": "puxando",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "x\u00e2ak",
+    "word_breakdown": "x\u00e2ak",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00e2ak",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00e2ak",
+      "morph-gls-pt-BR": "puxar",
+      "morph-gls-en": "pull",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "puxar",
+    "word_gls-en": "pull"
+   },
+   {
+    "word_text": "y\u00e2a",
+    "word_breakdown": "y\u00e2a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00e2a"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "voltar",
+    "word_gls-en": "go.back"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.28": {
+  "full_text": "\u00f4' t\u00f4oy y\u00e2a t\u0289m d\u00e2aw\u00a7",
+  "translation-pt-BR": "ou carrega em duas pessoas",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "\u00f4'",
+    "word_breakdown": "\u00f4'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00f4'"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "Pt:ou",
+    "word_gls-en": "Pt:or"
+   },
+   {
+    "word_text": "t\u00f4oy",
+    "word_breakdown": "t\u00f4oy",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00f4oy",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u00f4oy",
+      "morph-gls-pt-BR": "carregar.ombro",
+      "morph-gls-en": "carry.shoulder",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "carregar.ombro",
+    "word_gls-en": "carry.shoulder"
+   },
+   {
+    "word_text": "y\u00e2a",
+    "word_breakdown": "y\u00e2a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00e2a"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "voltar",
+    "word_gls-en": "go.back"
+   },
+   {
+    "word_text": "t\u0289m",
+    "word_breakdown": "t\u0289\u0289m",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289\u0289m",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289\u0289m",
+      "morph-gls-pt-BR": "dois",
+      "morph-gls-en": "two",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "dois",
+    "word_gls-en": "two"
+   },
+   {
+    "word_text": "d\u00e2aw",
+    "word_breakdown": "d\u00e2aw",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2aw",
+      "morph-gls-pt-BR": "pessoa",
+      "morph-gls-en": "person",
+      "morph-msa-en": "n"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "pessoa",
+    "word_gls-en": "person"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.29": {
+  "full_text": "ag ray xoo id n\u00eae \u00e7em s\u00e3m\u00e3an' \u00e3r n\u00eae s\u00e3'\u00e3a\u00a7",
+  "translation-pt-BR": "essa canoa que eu fiz semana passada eu s\u00f3 testei",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "ag",
+    "word_breakdown": "ag",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ag",
+      "morph-gls-pt-BR": "este.a\u00ed",
+      "morph-gls-en": "this.one",
+      "morph-msa-en": "pro-form"
+     }
+    ],
+    "word_pos-en": "pro-form",
+    "word_gls-pt-BR": "este.a\u00ed",
+    "word_gls-en": "this.one"
+   },
+   {
+    "word_text": "ray",
+    "word_breakdown": "ray",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ray",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ray",
+      "morph-gls-pt-BR": "como.\u00e9",
+      "morph-gls-en": "how.is.it",
+      "morph-msa-en": "pro-form",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro-form",
+    "word_gls-pt-BR": "como.\u00e9",
+    "word_gls-en": "how.it.is"
+   },
+   {
+    "word_text": "xoo",
+    "word_breakdown": "xoo",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "xoo",
+      "morph-gls-pt-BR": "canoa ",
+      "morph-gls-en": "canoe",
+      "morph-msa-en": "n",
+      "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "canoa ",
+    "word_gls-en": "canoe"
+   },
+   {
+    "word_text": "id",
+    "word_breakdown": "id",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "id"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1PL",
+    "word_gls-en": "1PL"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "\u00e7em",
+    "word_breakdown": "",
+    "morphs": []
+   },
+   {
+    "word_text": "s\u00e3m\u00e3an'",
+    "word_breakdown": "s\u00e3m\u00e3an'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3m\u00e3an'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3m\u00e3an'",
+      "morph-gls-pt-BR": "semana",
+      "morph-gls-en": "week",
+      "morph-msa-en": "n",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "semana",
+    "word_gls-en": "week"
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "n\u00eae",
+    "word_breakdown": "n\u00eae",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00eae",
+      "morph-gls-pt-BR": "fazer",
+      "morph-gls-en": "make",
+      "morph-msa-en": "v"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "fazer",
+    "word_gls-en": "make"
+   },
+   {
+    "word_text": "s\u00e3'\u00e3a",
+    "word_breakdown": "s\u00e3'\u00e3a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00e3'\u00e3a",
+      "morph-gls-pt-BR": "tentar",
+      "morph-gls-en": "try",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "tentar",
+    "word_gls-en": "try"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.30": {
+  "full_text": "n\u0129i set\u1ebdr\u00eay t\u00eaen rod ti'\u00a7",
+  "translation-pt-BR": "mas saiu um pouco errada",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "n\u0129i",
+    "word_breakdown": "n\u0129i",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "estar, existir, haver",
+    "word_gls-en": "be.exist.have"
+   },
+   {
+    "word_text": "set\u1ebdr\u00eay",
+    "word_breakdown": "set\u1ebdr\u00eay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "set"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u1ebdr",
+      "morph-gls-pt-BR": "NEG",
+      "morph-gls-en": "NEG",
+      "morph-msa-en": "Attaches to any category"
+     },
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00eay"
+     }
+    ],
+    "word_gls-pt-BR": "NEG",
+    "word_gls-en": "NEG"
+   },
+   {
+    "word_text": "t\u00eaen",
+    "word_breakdown": "t\u00eaen",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00eaen"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "pouco",
+    "word_gls-en": null
+   },
+   {
+    "word_text": "rod",
+    "word_breakdown": "rod",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "rod",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "rod",
+      "morph-gls-pt-BR": "sair",
+      "morph-gls-en": "leave",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "sair",
+    "word_gls-en": "leave"
+   },
+   {
+    "word_text": "ti'",
+    "word_breakdown": "ti'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ti'"
+     }
+    ]
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.31": {
+  "full_text": "kasay t\u00eaen\u00a7",
+  "translation-pt-BR": "um pouco feia",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "kasay",
+    "word_breakdown": "kasay",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "kasay"
+     }
+    ],
+    "word_pos-en": "n",
+    "word_gls-pt-BR": "feio",
+    "word_gls-en": "ugly"
+   },
+   {
+    "word_text": "t\u00eaen",
+    "word_breakdown": "t\u00eaen",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00eaen"
+     }
+    ],
+    "word_pos-en": "adv",
+    "word_gls-pt-BR": "quando.no.presente",
+    "word_gls-en": "when.in.present"
+   },
+   {
+    "word_text": "\u00a7",
+    "word_breakdown": "",
+    "morphs": []
+   }
+  ],
+  "notes": []
+ },
+ "1.32": {
+  "full_text": "ag ray k\u00e2' \u00e3r n\u00e3a",
+  "translation-pt-BR": "\u00e9 isso que estou falando",
+  "translation-en": null,
+  "word_list": [
+   {
+    "word_text": "ag",
+    "word_breakdown": "ag",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ag",
+      "morph-gls-pt-BR": "este.a\u00ed",
+      "morph-gls-en": "this.one",
+      "morph-msa-en": "pro-form"
+     }
+    ],
+    "word_pos-en": "pro-form",
+    "word_gls-pt-BR": "este.a\u00ed",
+    "word_gls-en": "this.one"
+   },
+   {
+    "word_text": "ray",
+    "word_breakdown": "ray",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "ray",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "ray",
+      "morph-gls-pt-BR": "como.\u00e9",
+      "morph-gls-en": "how.is.it",
+      "morph-msa-en": "pro-form",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "pro-form",
+    "word_gls-pt-BR": "como.\u00e9",
+    "word_gls-en": "how.it.is"
+   },
+   {
+    "word_text": "k\u00e2'",
+    "word_breakdown": "k\u00e2'",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u00e2'",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u00e2'",
+      "morph-gls-pt-BR": "opinativo ",
+      "morph-gls-en": "OPIN",
+      "morph-msa-en": "prt",
+      "morph_type": "particle"
+     }
+    ],
+    "word_pos-en": "prt",
+    "word_gls-pt-BR": "opinativo ",
+    "word_gls-en": "OPIN"
+   },
+   {
+    "word_text": "\u00e3r",
+    "word_breakdown": "\u00e3r",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3r"
+     }
+    ],
+    "word_pos-en": "pro",
+    "word_gls-pt-BR": "1S",
+    "word_gls-en": "1S"
+   },
+   {
+    "word_text": "n\u00e3a",
+    "word_breakdown": "n\u00e3a",
+    "morphs": [
+     {
+      "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+      "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+      "morph-gls-pt-BR": "dizer",
+      "morph-gls-en": "say",
+      "morph-msa-en": "v",
+      "morph_type": "root"
+     }
+    ],
+    "word_pos-en": "v",
+    "word_gls-pt-BR": "dizer",
+    "word_gls-en": "say"
+   }
+  ],
+  "notes": []
+ }
+}
