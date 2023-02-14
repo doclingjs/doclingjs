@@ -1,0 +1,4102 @@
+{
+ "flextext": "Canto - aca33fbe-b536-4ab3-9f74-de0be11275df.flextext",
+ "title-pt-BR": "Canto",
+ "utterances": {
+  "1.1": {
+   "full_text": "weey n\u0289\u0303g\u0289\u0303' wi\u00e7 tee weey n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u0289\u0303g weey p\u0289\u0289d y\u00ead wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas s\u00e3o fracos filhos de wii\u00e7 voc\u00eas s\u00e3o fracos filhos de wii\u00e7 voc\u00eas s\u00e3o muito fracos",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "fraco",
+     "word_gls-en": "weak"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "fraco",
+     "word_gls-en": "weak"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "fraco",
+     "word_gls-en": "weak"
+    },
+    {
+     "word_text": "p\u0289\u0289d",
+     "word_breakdown": "p\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+       "morph-gls-pt-BR": "muito",
+       "morph-gls-en": "a.lot",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adj",
+     "word_gls-pt-BR": "muito",
+     "word_gls-en": "a.lot"
+    },
+    {
+     "word_text": "y\u00ead",
+     "word_breakdown": "y\u00ead",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-gls-pt-BR": "querer",
+       "morph-gls-en": "want",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "querer",
+     "word_gls-en": "want"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.2": {
+   "full_text": "b\u00f4r\u00f5o k\u00e2w r\u1ebdd ray yeg ked \u0289\u0289d ka' n\u0289\u0303g\u0289\u0303' wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas s\u00f3 ficam perto do fogo voc\u00eas s\u00f3 deitam na rede filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "b\u00f4r\u00f5o",
+     "word_breakdown": "b\u00f4r\u00f5o",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u00f4r\u00f5o",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u00f4r\u00f5o",
+       "morph-gls-pt-BR": "fogo",
+       "morph-gls-en": "fire",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "fogo",
+     "word_gls-en": "fire"
+    },
+    {
+     "word_text": "k\u00e2w",
+     "word_breakdown": "k\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u00e2w",
+       "morph-gls-pt-BR": "peda\u00e7o.cil\u00edndrico.curto",
+       "morph-gls-en": "cylindrical.short.piece",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "peda\u00e7o.cil\u00edndrico.curto",
+     "word_gls-en": "cylindrical.short.piece"
+    },
+    {
+     "word_text": "r\u1ebdd",
+     "word_breakdown": "r\u1ebdd",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "RECIP",
+     "word_gls-en": "RECIP"
+    },
+    {
+     "word_text": "ray",
+     "word_breakdown": "ray",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ray",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ray",
+       "morph-gls-pt-BR": "como.\u00e9",
+       "morph-gls-en": "how.is.it",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "como.\u00e9",
+     "word_gls-en": "how.it.is"
+    },
+    {
+     "word_text": "yeg",
+     "word_breakdown": "yeg",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "yeg",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "yeg",
+       "morph-gls-pt-BR": "rede",
+       "morph-gls-en": "hammock",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "rede",
+     "word_gls-en": "hammock"
+    },
+    {
+     "word_text": "ked",
+     "word_breakdown": "ked",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ked",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ked",
+       "morph-gls-pt-BR": "dentro",
+       "morph-gls-en": "in/inside",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "dentro",
+     "word_gls-en": "in/inside"
+    },
+    {
+     "word_text": "\u0289\u0289d",
+     "word_breakdown": "-\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-gls-pt-BR": "REST",
+       "morph-gls-en": "REST",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_gls-pt-BR": "REST",
+     "word_gls-en": "REST"
+    },
+    {
+     "word_text": "ka'",
+     "word_breakdown": "ka'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ka'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ka'",
+       "morph-gls-pt-BR": "PROG2 (arcaico)",
+       "morph-gls-en": "PROG2 (archaic)",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "PROG2",
+     "word_gls-en": "PROG2"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.3": {
+   "full_text": "gal\u00eat \u0289\u0289d weed y\u00eat n\u0289\u0303g\u0289\u0303' wi\u00e7 tee biig uy n\u0289\u0303g n\u0129i y\u00eat n\u00e3' 'm\u0289\u0303g\u0289\u0303' wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas s\u00f3 comem galeto filhos de wii\u00e7 voc\u00eas ficam aqui a toa filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "gal\u00eat",
+     "word_breakdown": "gal\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "gal\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "gal\u00eat",
+       "morph-gls-pt-BR": "frango",
+       "morph-gls-en": "chicken",
+       "morph-msa-en": "n",
+       "morph_type": "stem"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "frango",
+     "word_gls-en": "chicken"
+    },
+    {
+     "word_text": "\u0289\u0289d",
+     "word_breakdown": "-\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-gls-pt-BR": "REST",
+       "morph-gls-en": "REST",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_gls-pt-BR": "REST",
+     "word_gls-en": "REST"
+    },
+    {
+     "word_text": "weed",
+     "word_breakdown": "weed",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-gls-pt-BR": "comer",
+       "morph-gls-en": "eat",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "comer",
+     "word_gls-en": "eat"
+    },
+    {
+     "word_text": "y\u00eat",
+     "word_breakdown": "y\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-gls-pt-BR": "deitar",
+       "morph-gls-en": "lie.down",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar",
+     "word_gls-en": "lie.down"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "biig",
+     "word_breakdown": "biig",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "biig"
+      }
+     ],
+     "word_gls-pt-BR": "\u00e0.toa",
+     "word_gls-en": "purposeless"
+    },
+    {
+     "word_text": "uy",
+     "word_breakdown": "uy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "uy"
+      }
+     ],
+     "pos": "",
+     "word_gls-pt-BR": "PQ",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "n\u0129i",
+     "word_breakdown": "n\u0129i",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-gls-pt-BR": "estar.existir.ter",
+       "morph-gls-en": "be.exist.have",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar, existir, haver",
+     "word_gls-en": "be.exist.have"
+    },
+    {
+     "word_text": "y\u00eat",
+     "word_breakdown": "y\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-gls-pt-BR": "deitar",
+       "morph-gls-en": "lie.down",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar",
+     "word_gls-en": "lie.down"
+    },
+    {
+     "word_text": "n\u00e3'",
+     "word_breakdown": "n\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-gls-pt-BR": "este",
+       "morph-gls-en": "this",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "este",
+     "word_gls-en": "this"
+    },
+    {
+     "word_text": "'m\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "'m\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g\u0289\u0303'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g\u0289\u0303'",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "stem"
+      }
+     ],
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.4": {
+   "full_text": "r\u0169u waap y\u0169t\u1ebdr n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u0289\u0303g y\u0169t\u1ebdr r\u0169u waap xaay n\u0169uk n\u0289\u0303g suuk t\u00e2g wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas n\u00e3o matam nem uma ca\u00e7a filhos de wii\u00e7 voc\u00eas n\u00e3o matam nem uma ca\u00e7a no mato voc\u00eas nunca ca\u00e7am",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "r\u0169u",
+     "word_breakdown": "r\u0169u",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-gls-pt-BR": "ca\u00e7a",
+       "morph-gls-en": "game.animal",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "animal.de.ca\u00e7a",
+     "word_gls-en": "game.animal"
+    },
+    {
+     "word_text": "waap",
+     "word_breakdown": "waap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-gls-pt-BR": "TOT",
+       "morph-gls-en": "TOT",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "TOT",
+     "word_gls-en": "TOT"
+    },
+    {
+     "word_text": "y\u0169t\u1ebdr",
+     "word_breakdown": "y\u0169t-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "matar",
+       "morph-gls-en": "kill",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "matar-NEG",
+     "word_gls-en": "kill-NEG"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "y\u0169t\u1ebdr",
+     "word_breakdown": "y\u0169t-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "matar",
+       "morph-gls-en": "kill",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "matar-NEG",
+     "word_gls-en": "kill-NEG"
+    },
+    {
+     "word_text": "r\u0169u",
+     "word_breakdown": "r\u0169u",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-gls-pt-BR": "ca\u00e7a",
+       "morph-gls-en": "game.animal",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "animal.de.ca\u00e7a",
+     "word_gls-en": "game.animal"
+    },
+    {
+     "word_text": "waap",
+     "word_breakdown": "waap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-gls-pt-BR": "TOT",
+       "morph-gls-en": "TOT",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "TOT",
+     "word_gls-en": "TOT"
+    },
+    {
+     "word_text": "xaay",
+     "word_breakdown": "xaay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaay",
+       "morph-gls-pt-BR": "floresta",
+       "morph-gls-en": "forest",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "floresta",
+     "word_gls-en": "forest"
+    },
+    {
+     "word_text": "n\u0169uk",
+     "word_breakdown": "n\u0169uk",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0169uk",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0169uk",
+       "morph-gls-pt-BR": "nunca",
+       "morph-gls-en": null,
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "stem"
+      }
+     ],
+     "word_gls-pt-BR": "nunca",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "suuk",
+     "word_breakdown": "suuk",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "suuk",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "suuk",
+       "morph-gls-pt-BR": "ca\u00e7ar",
+       "morph-gls-en": "hunt",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ca\u00e7ar",
+     "word_gls-en": "hunt"
+    },
+    {
+     "word_text": "t\u00e2g",
+     "word_breakdown": "t\u00e2ag",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00e2ag",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u00e2ag",
+       "morph-gls-pt-BR": "HABIT",
+       "morph-gls-en": "HABIT",
+       "morph-msa-en": "???",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "4",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "HABIT",
+     "word_gls-en": "HABIT"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.5": {
+   "full_text": "biigid n\u0289\u0303g n\u0129i y\u00eat g\u00e2' laak n\u0289\u0303g \u00e2g y\u00ead n\u00e3' 'm\u0289\u0303g wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas est\u00e3o a toa aqui voc\u00eas s\u00f3 bebem aqui filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "biigid",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "n\u0129i",
+     "word_breakdown": "n\u0129i",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-gls-pt-BR": "estar.existir.ter",
+       "morph-gls-en": "be.exist.have",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar, existir, haver",
+     "word_gls-en": "be.exist.have"
+    },
+    {
+     "word_text": "y\u00eat",
+     "word_breakdown": "y\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-gls-pt-BR": "deitar",
+       "morph-gls-en": "lie.down",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar",
+     "word_gls-en": "lie.down"
+    },
+    {
+     "word_text": "g\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    },
+    {
+     "word_text": "laak",
+     "word_breakdown": "laak",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "laak",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "laak",
+       "morph-gls-pt-BR": "cacha\u00e7a",
+       "morph-gls-en": "cacha\u00e7a",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "cacha\u00e7a",
+     "word_gls-en": "cacha\u00e7a"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "\u00e2g",
+     "word_breakdown": "\u00e2g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e2g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "\u00e2g",
+       "morph-gls-pt-BR": "beber",
+       "morph-gls-en": "drink",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "beber",
+     "word_gls-en": "drink"
+    },
+    {
+     "word_text": "y\u00ead",
+     "word_breakdown": "y\u00ead",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-gls-pt-BR": "INTENS",
+       "morph-gls-en": "INTENS",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "INTENS",
+     "word_gls-en": "INTENS"
+    },
+    {
+     "word_text": "n\u00e3'",
+     "word_breakdown": "n\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-gls-pt-BR": "para.que",
+       "morph-gls-en": "so.that ",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "para.que",
+     "word_gls-en": "so.that "
+    },
+    {
+     "word_text": "'m\u0289\u0303g",
+     "word_breakdown": "'m\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.6": {
+   "full_text": "weey n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u0289\u0303g m\u1ebd' m\u1ebdr kon n\u0289\u0303g kas\u00e3am r\u0169' kon m\u00e3ay wi\u00e7 tee weey p\u0289\u0289d n\u0289\u0303g\u0289\u0303' wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas s\u00e3o pregui\u00e7osos filhos de wii\u00e7 se voc\u00eas n\u00e3o tivessem m\u00e3e voc\u00eas iriam morrer filhos de wii\u00e7 voc\u00eas s\u00e3o muito pregui\u00e7osos filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "pregui\u00e7oso",
+     "word_gls-en": "lazy"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g-\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL-ENF",
+     "word_gls-en": "2PL-EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "m\u1ebd'",
+     "word_breakdown": "m\u1ebd'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u1ebd'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u1ebd'",
+       "morph-gls-pt-BR": "m\u00e3e",
+       "morph-gls-en": "mother",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "m\u00e3e",
+     "word_gls-en": "mother"
+    },
+    {
+     "word_text": "m\u1ebdr",
+     "word_breakdown": "m\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u1ebdr",
+       "morph-gls-pt-BR": "neg.exst",
+       "morph-gls-en": "neg.exst",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "neg.exst",
+     "word_gls-en": "neg.exst"
+    },
+    {
+     "word_text": "kon",
+     "word_breakdown": "kon",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-gls-pt-BR": "se",
+       "morph-gls-en": "if",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "se",
+     "word_gls-en": "if"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "kas\u00e3am",
+     "word_breakdown": "kas\u00e3am",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kas\u00e3am",
+       "morph-gls-pt-BR": "morrer",
+       "morph-gls-en": "die",
+       "morph-msa-en": "v"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "morrer",
+     "word_gls-en": "die"
+    },
+    {
+     "word_text": "r\u0169'",
+     "word_breakdown": "r\u0169'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+       "morph-gls-pt-BR": "tudo",
+       "morph-gls-en": "all",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "3",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "tudo",
+     "word_gls-en": "all"
+    },
+    {
+     "word_text": "kon",
+     "word_breakdown": "kon",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-gls-pt-BR": "se",
+       "morph-gls-en": "if",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "se",
+     "word_gls-en": "if"
+    },
+    {
+     "word_text": "m\u00e3ay",
+     "word_breakdown": "m\u00e3ay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-gls-pt-BR": "ser.intensificado",
+       "morph-gls-en": "be.intensified",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "INTENS",
+     "word_gls-en": "INTENS"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "pregui\u00e7oso",
+     "word_gls-en": "lazy"
+    },
+    {
+     "word_text": "p\u0289\u0289d",
+     "word_breakdown": "p\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+       "morph-gls-pt-BR": "muito",
+       "morph-gls-en": "a.lot",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adj",
+     "word_gls-pt-BR": "muito",
+     "word_gls-en": "a.lot"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.7": {
+   "full_text": "biigid n\u0289\u0303g m\u0289\u0303\u0289g n\u0289\u0303g n\u0129i y\u00eat g\u00e2' wi\u00e7 tee buuy weed\u0129' r\u1ebdd d\u00e2r\u0289\u0289d y\u0289\u0289m n\u0289\u0303g\u0289\u0303' wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas est\u00e3o aqui a toa filhos de wii\u00e7 voc\u00eas s\u00f3 vivem com a comida dos brancos filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "biigid",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "m\u0289\u0303\u0289g",
+     "word_breakdown": "'m\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "n\u0129i",
+     "word_breakdown": "n\u0129i",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-gls-pt-BR": "estar.existir.ter",
+       "morph-gls-en": "be.exist.have",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar, existir, haver",
+     "word_gls-en": "be.exist.have"
+    },
+    {
+     "word_text": "y\u00eat",
+     "word_breakdown": "y\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-gls-pt-BR": "deitar",
+       "morph-gls-en": "lie.down",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar",
+     "word_gls-en": "lie.down"
+    },
+    {
+     "word_text": "g\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "buuy",
+     "word_breakdown": "buuy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-gls-pt-BR": "pessoa.n\u00e3o.indigena",
+       "morph-gls-en": "non.indigenous.person",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "branco",
+     "word_gls-en": "white"
+    },
+    {
+     "word_text": "weed\u0129'",
+     "word_breakdown": "weed\u0129'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-gls-pt-BR": "comida",
+       "morph-gls-en": "food",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0129'"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "comida",
+     "word_gls-en": "food"
+    },
+    {
+     "word_text": "r\u1ebdd",
+     "word_breakdown": "r\u1ebdd",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "RECIP",
+     "word_gls-en": "RECIP"
+    },
+    {
+     "word_text": "d\u00e2r\u0289\u0289d",
+     "word_breakdown": "d\u00e2r-\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-gls-pt-BR": "movimentar.subitamente",
+       "morph-gls-en": "move.suddenly",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "3",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-gls-pt-BR": "REST",
+       "morph-gls-en": "REST",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "passar-somente",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "y\u0289\u0289m",
+     "word_breakdown": "y\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-gls-pt-BR": "estar.vivo",
+       "morph-gls-en": "be.alive",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "viver",
+     "word_gls-en": "live"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.8": {
+   "full_text": "buuy weed\u0129' r\u1ebdd d\u00e2r\u0289\u0289d y\u0289\u0289m n\u0289\u0303g\u0289\u0303' wi\u00e7 tee buuy gal\u00eat r\u1ebdd buuy r\u00e3ap r\u1ebdd aa' r\u1ebdd n\u0289\u0303g y\u0289\u0289m g\u00e2' wi\u00e7 tee sun\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas s\u00f3 vivem com a comida dos brancos filhos de wii\u00e7 com frango dos brancos com peixe dos brancos \u00e9 com isso que voc\u00eas vivem filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "buuy",
+     "word_breakdown": "buuy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-gls-pt-BR": "pessoa.n\u00e3o.indigena",
+       "morph-gls-en": "non.indigenous.person",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "branco",
+     "word_gls-en": "white"
+    },
+    {
+     "word_text": "weed\u0129'",
+     "word_breakdown": "weed\u0129'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-gls-pt-BR": "comida",
+       "morph-gls-en": "food",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0129'"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "comida",
+     "word_gls-en": "food"
+    },
+    {
+     "word_text": "r\u1ebdd",
+     "word_breakdown": "r\u1ebdd",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "RECIP",
+     "word_gls-en": "RECIP"
+    },
+    {
+     "word_text": "d\u00e2r\u0289\u0289d",
+     "word_breakdown": "d\u00e2r-\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-gls-pt-BR": "PLZ",
+       "morph-gls-en": "PLZ",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-gls-pt-BR": "REST",
+       "morph-gls-en": "REST",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "PLZ-REST",
+     "word_gls-en": "PLZ-REST"
+    },
+    {
+     "word_text": "y\u0289\u0289m",
+     "word_breakdown": "y\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-gls-pt-BR": "estar.vivo",
+       "morph-gls-en": "be.alive",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "viver",
+     "word_gls-en": "live"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "buuy",
+     "word_breakdown": "buuy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-gls-pt-BR": "pessoa.n\u00e3o.indigena",
+       "morph-gls-en": "non.indigenous.person",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "branco",
+     "word_gls-en": "white"
+    },
+    {
+     "word_text": "gal\u00eat",
+     "word_breakdown": "gal\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "gal\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "gal\u00eat",
+       "morph-gls-pt-BR": "frango",
+       "morph-gls-en": "chicken",
+       "morph-msa-en": "n",
+       "morph_type": "stem"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "frango",
+     "word_gls-en": "chicken"
+    },
+    {
+     "word_text": "r\u1ebdd",
+     "word_breakdown": "r\u1ebdd",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "RECIP",
+     "word_gls-en": "RECIP"
+    },
+    {
+     "word_text": "buuy",
+     "word_breakdown": "buuy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-gls-pt-BR": "pessoa.n\u00e3o.indigena",
+       "morph-gls-en": "non.indigenous.person",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "branco",
+     "word_gls-en": "white"
+    },
+    {
+     "word_text": "r\u00e3ap",
+     "word_breakdown": "r\u00e3ap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3ap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3ap",
+       "morph-gls-pt-BR": "peixe",
+       "morph-gls-en": "fish",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "peixe",
+     "word_gls-en": "fish"
+    },
+    {
+     "word_text": "r\u1ebdd",
+     "word_breakdown": "r\u1ebdd",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "RECIP",
+     "word_gls-en": "RECIP"
+    },
+    {
+     "word_text": "aa'",
+     "word_breakdown": "aa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "aa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "aa",
+       "morph-gls-pt-BR": "aquele/ aquela/ aquil ANAF.",
+       "morph-gls-en": null,
+       "morph-msa-en": "pro",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro",
+     "word_gls-pt-BR": "aquele/ aquela/ aquilo.ANAF.",
+     "word_gls-en": "that.ANAPH"
+    },
+    {
+     "word_text": "r\u1ebdd",
+     "word_breakdown": "r\u1ebdd",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "RECIP",
+     "word_gls-en": "RECIP"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "y\u0289\u0289m",
+     "word_breakdown": "y\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-gls-pt-BR": "estar.vivo",
+       "morph-gls-en": "be.alive",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "viver",
+     "word_gls-en": "live"
+    },
+    {
+     "word_text": "g\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "sun",
+     "word_breakdown": "sun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-gls-pt-BR": "inclusive",
+       "morph-gls-en": "including",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "inclusive",
+     "word_gls-en": "including"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.9": {
+   "full_text": "t\u1ebdy\u0169t n\u0289\u0303g n\u0129i y\u00eat g\u00e2' yeg dee n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u0169uk n\u0289\u0303g r\u00e3m t\u00e2g xaay sun wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u0303es est\u00e3o aqui sem fazer nada voc\u00eas s\u00f3 ficam na rede filhos de wii\u00e7 nunca v\u00e3o no mato filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "t\u1ebdy\u0169t",
+     "word_breakdown": "t\u1ebdy\u0169t",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u1ebdy\u0169t"
+      }
+     ],
+     "word_gls-pt-BR": "fazer.nada",
+     "word_gls-en": "do.nothing"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "n\u0129i",
+     "word_breakdown": "n\u0129i",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-gls-pt-BR": "estar.existir.ter",
+       "morph-gls-en": "be.exist.have",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar, existir, haver",
+     "word_gls-en": "be.exist.have"
+    },
+    {
+     "word_text": "y\u00eat",
+     "word_breakdown": "y\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-gls-pt-BR": "deitar",
+       "morph-gls-en": "lie.down",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar",
+     "word_gls-en": "lie.down"
+    },
+    {
+     "word_text": "g\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    },
+    {
+     "word_text": "yeg",
+     "word_breakdown": "yeg",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "yeg",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "yeg",
+       "morph-gls-pt-BR": "rede",
+       "morph-gls-en": "hammock",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "rede",
+     "word_gls-en": "hammock"
+    },
+    {
+     "word_text": "dee",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u0169uk",
+     "word_breakdown": "n\u0169uk",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0169uk",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0169uk",
+       "morph-gls-pt-BR": "nunca",
+       "morph-gls-en": null,
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "stem"
+      }
+     ],
+     "word_gls-pt-BR": "nunca",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "t\u00e2g",
+     "word_breakdown": "t\u00e2ag",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00e2ag",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u00e2ag",
+       "morph-gls-pt-BR": "HABIT",
+       "morph-gls-en": "HABIT",
+       "morph-msa-en": "???",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "4",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "\u00e1rvore",
+     "word_gls-en": "tree"
+    },
+    {
+     "word_text": "xaay",
+     "word_breakdown": "xaay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaay",
+       "morph-gls-pt-BR": "floresta",
+       "morph-gls-en": "forest",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "floresta",
+     "word_gls-en": "forest"
+    },
+    {
+     "word_text": "sun",
+     "word_breakdown": "sun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-gls-pt-BR": "inclusive",
+       "morph-gls-en": "including",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "inclusive",
+     "word_gls-en": "including"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.10": {
+   "full_text": "t\u1ebdy\u0169t n\u0289\u0303g n\u0129i y\u00eat n\u00e3' 'm\u0289\u0303g\u0289\u0303' wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas est\u00e3o aqui a toa filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "t\u1ebdy\u0169t",
+     "word_breakdown": "t\u1ebdy\u0169t",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u1ebdy\u0169t"
+      }
+     ],
+     "word_gls-pt-BR": "fazer.nada",
+     "word_gls-en": "do.nothing"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "n\u0129i",
+     "word_breakdown": "n\u0129i",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-gls-pt-BR": "estar.existir.ter",
+       "morph-gls-en": "be.exist.have",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar, existir, haver",
+     "word_gls-en": "be.exist.have"
+    },
+    {
+     "word_text": "y\u00eat",
+     "word_breakdown": "y\u00eat",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00eat",
+       "morph-gls-pt-BR": "deitar",
+       "morph-gls-en": "lie.down",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar",
+     "word_gls-en": "lie.down"
+    },
+    {
+     "word_text": "n\u00e3'",
+     "word_breakdown": "n\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-gls-pt-BR": "para.que",
+       "morph-gls-en": "so.that ",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "para.que",
+     "word_gls-en": "so.that "
+    },
+    {
+     "word_text": "'m\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "'m\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g\u0289\u0303'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g\u0289\u0303'",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "stem"
+      }
+     ],
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.11": {
+   "full_text": "weey p\u0289\u0289d n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u1ebde n\u0289\u0303g laay' r\u00e3ap sun wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u0303es s\u00e3o muito pregui\u00e7osos filhos de wii\u00e7 voc\u00eas n\u00e3o pescam nem peixe filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "pregui\u00e7oso",
+     "word_gls-en": "lazy"
+    },
+    {
+     "word_text": "p\u0289\u0289d",
+     "word_breakdown": "p\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u0289\u0289d",
+       "morph-gls-pt-BR": "muito",
+       "morph-gls-en": "a.lot",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adj",
+     "word_gls-pt-BR": "muito",
+     "word_gls-en": "a.lot"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u1ebde",
+     "word_breakdown": "n\u1ebde",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u1ebde"
+      }
+     ],
+     "word_gls-pt-BR": "Pt:n\u00e3o.\u00e9",
+     "word_gls-en": "Pt:not"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "laay'",
+     "word_breakdown": "laay'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "laay'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "laay'",
+       "morph-gls-pt-BR": "anzol",
+       "morph-gls-en": "fishhook",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "anzol",
+     "word_gls-en": "hook"
+    },
+    {
+     "word_text": "r\u00e3ap",
+     "word_breakdown": "r\u00e3ap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3ap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3ap",
+       "morph-gls-pt-BR": "peixe",
+       "morph-gls-en": "fish",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "peixe",
+     "word_gls-en": "fish"
+    },
+    {
+     "word_text": "sun",
+     "word_breakdown": "sun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-gls-pt-BR": "inclusive",
+       "morph-gls-en": "including",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "inclusive",
+     "word_gls-en": "including"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.12": {
+   "full_text": "t\u0289\u0289w ran\u1ebdr r\u00e3m n\u00e3' xuup n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u0289\u0303g weey uy \u00e3m n\u0129i n\u00f5r n\u0289\u0303g\u0289\u0303' wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "os caminhos de voc\u00eas est\u00e3o sumindo filhos de wii\u00e7 porque voc\u00eas s\u00e3o pregui\u00e7osos voc\u00eas tem mulher filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "t\u0289\u0289w",
+     "word_breakdown": "t\u0289\u0289w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289\u0289w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289\u0289w",
+       "morph-gls-pt-BR": "caminho",
+       "morph-gls-en": "path",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "caminho",
+     "word_gls-en": "path"
+    },
+    {
+     "word_text": "ran\u1ebdr",
+     "word_breakdown": "ran-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ran"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_gls-pt-BR": "NEG",
+     "word_gls-en": "NEG"
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "n\u00e3'",
+     "word_breakdown": "n\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3'",
+       "morph-gls-pt-BR": "para.que",
+       "morph-gls-en": "so.that ",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "para.que",
+     "word_gls-en": "so.that "
+    },
+    {
+     "word_text": "xuup",
+     "word_breakdown": "xuup",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xuup",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xuup",
+       "morph-gls-pt-BR": "sonho",
+       "morph-gls-en": "dream",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "sonho",
+     "word_gls-en": "dream"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "weey",
+     "word_breakdown": "weey",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weey",
+       "morph-gls-pt-BR": "fraco",
+       "morph-gls-en": "weak",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "pregui\u00e7oso",
+     "word_gls-en": "lazy"
+    },
+    {
+     "word_text": "uy",
+     "word_breakdown": "uy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "uy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "uy",
+       "morph-gls-pt-BR": "porque",
+       "morph-gls-en": "because",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "pos": "",
+     "word_gls-pt-BR": "porque",
+     "word_gls-en": "because"
+    },
+    {
+     "word_text": "\u00e3m",
+     "word_breakdown": "\u00e3am",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3am",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "\u00e3am",
+       "morph-gls-pt-BR": "esposa",
+       "morph-gls-en": "wife",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "pos": "",
+     "word_gls-pt-BR": "esposa",
+     "word_gls-en": "wife"
+    },
+    {
+     "word_text": "n\u0129i",
+     "word_breakdown": "n\u0129i",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u0129i",
+       "morph-gls-pt-BR": "estar.existir.ter",
+       "morph-gls-en": "be.exist.have",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar, existir, haver",
+     "word_gls-en": "be.exist.have"
+    },
+    {
+     "word_text": "n\u00f5r",
+     "word_breakdown": "n\u00f5r",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00f5r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00f5r",
+       "morph-gls-pt-BR": "boca",
+       "morph-gls-en": "mouth",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "?",
+     "word_gls-en": "?"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.13": {
+   "full_text": "buuy weed\u0129' r\u1ebdd\u0289\u0289d n\u0289\u0303g y\u0289\u0289m g\u00e2' taaw' de' n\u0289\u0303g y\u0289\u0289m n\u0289\u0303g \u00e3m diid n\u0289\u0303g yar weed wi\u00e7 tee sun\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas vivem s\u00f3 com a comida dos brancos voc\u00eas e suas mulheres s\u00f3 vivem com a comida da cidade filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "buuy",
+     "word_breakdown": "buuy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-gls-pt-BR": "pessoa.n\u00e3o.indigena",
+       "morph-gls-en": "non.indigenous.person",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "branco",
+     "word_gls-en": "white"
+    },
+    {
+     "word_text": "weed\u0129'",
+     "word_breakdown": "weed\u0129'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-gls-pt-BR": "comida",
+       "morph-gls-en": "food",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0129'"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "comida",
+     "word_gls-en": "food"
+    },
+    {
+     "word_text": "r\u1ebdd\u0289\u0289d",
+     "word_breakdown": "r\u1ebdd-\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u1ebdd",
+       "morph-gls-pt-BR": "OBL",
+       "morph-gls-en": "OBL",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-gls-pt-BR": "REST",
+       "morph-gls-en": "REST",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_gls-pt-BR": "REST",
+     "word_gls-en": "REST"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "y\u0289\u0289m",
+     "word_breakdown": "y\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-gls-pt-BR": "estar.vivo",
+       "morph-gls-en": "be.alive",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "viver",
+     "word_gls-en": "live"
+    },
+    {
+     "word_text": "g\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    },
+    {
+     "word_text": "taaw'",
+     "word_breakdown": "taaw'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "taaw'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "taaw'",
+       "morph-gls-pt-BR": "cidade",
+       "morph-gls-en": "city",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "cidade",
+     "word_gls-en": "city"
+    },
+    {
+     "word_text": "de'",
+     "word_breakdown": "de'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "de'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "de'",
+       "morph-gls-pt-BR": "esperar",
+       "morph-gls-en": "wait",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "esperar",
+     "word_gls-en": "wait"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "y\u0289\u0289m",
+     "word_breakdown": "y\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-gls-pt-BR": "estar.vivo",
+       "morph-gls-en": "be.alive",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "viver",
+     "word_gls-en": "live"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "\u00e3m",
+     "word_breakdown": "\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "\u00e3m",
+       "morph-gls-pt-BR": "TAM.INCO",
+       "morph-gls-en": "TAM.INCO",
+       "morph-msa-en": "???",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "pos": "",
+     "word_gls-pt-BR": "TAM.INCO",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "diid",
+     "word_breakdown": "diid",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "diid",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "diid",
+       "morph-gls-pt-BR": "l\u00e1",
+       "morph-gls-en": "there",
+       "morph-msa-en": "pro-form",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "l\u00e1",
+     "word_gls-en": "there"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "yar",
+     "word_breakdown": "yar",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "yar"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "fruta",
+     "word_gls-en": "fruit"
+    },
+    {
+     "word_text": "weed",
+     "word_breakdown": "weed",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-gls-pt-BR": "comer",
+       "morph-gls-en": "eat",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "comer",
+     "word_gls-en": "eat"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "sun",
+     "word_breakdown": "sun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-gls-pt-BR": "inclusive",
+       "morph-gls-en": "including",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "inclusive",
+     "word_gls-en": "including"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.14": {
+   "full_text": "biigid n\u0289\u0303g y\u0289\u0289m ray g\u00e2' n\u0289\u0303g buuy weed\u0129' m\u1ebdr kon n\u0289\u0303g weed\u1ebdr kon m\u00e3ay kas waap n\u0289\u0303g y\u0169t\u1ebdr kon m\u00e3ay r\u00e3ap sun wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas vivem a toa se n\u00e3o tivesse a comida dos brancos voc\u00eas n\u00e3o iam comer nada voc\u00eas n\u00e3o matam nada nem peixe filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "biigid",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "y\u0289\u0289m",
+     "word_breakdown": "y\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0289m",
+       "morph-gls-pt-BR": "estar.vivo",
+       "morph-gls-en": "be.alive",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "viver",
+     "word_gls-en": "live"
+    },
+    {
+     "word_text": "ray",
+     "word_breakdown": "ray",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ray",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ray",
+       "morph-gls-pt-BR": "como.\u00e9",
+       "morph-gls-en": "how.is.it",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "como.\u00e9",
+     "word_gls-en": "how.it.is"
+    },
+    {
+     "word_text": "g\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "buuy",
+     "word_breakdown": "buuy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "buuy",
+       "morph-gls-pt-BR": "pessoa.n\u00e3o.indigena",
+       "morph-gls-en": "non.indigenous.person",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "branco",
+     "word_gls-en": "white"
+    },
+    {
+     "word_text": "weed\u0129'",
+     "word_breakdown": "weed\u0129'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "weed",
+       "morph-gls-pt-BR": "comida",
+       "morph-gls-en": "food",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0129'"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "comida",
+     "word_gls-en": "food"
+    },
+    {
+     "word_text": "m\u1ebdr",
+     "word_breakdown": "m\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u1ebdr",
+       "morph-gls-pt-BR": "neg.exst",
+       "morph-gls-en": "neg.exst",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "neg.exst",
+     "word_gls-en": "neg.exst"
+    },
+    {
+     "word_text": "kon",
+     "word_breakdown": "kon",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-gls-pt-BR": "se",
+       "morph-gls-en": "if",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "se",
+     "word_gls-en": "if"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "weed\u1ebdr",
+     "word_breakdown": "we\u00e8d-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "we\u00e8d"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr"
+      }
+     ]
+    },
+    {
+     "word_text": "kon",
+     "word_breakdown": "kon",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-gls-pt-BR": "se",
+       "morph-gls-en": "if",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "se",
+     "word_gls-en": "if"
+    },
+    {
+     "word_text": "m\u00e3ay",
+     "word_breakdown": "m\u00e3ay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-gls-pt-BR": "ser.intensificado",
+       "morph-gls-en": "be.intensified",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "INTENS",
+     "word_gls-en": "INTENS"
+    },
+    {
+     "word_text": "kas",
+     "word_breakdown": "kas",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kas",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kas",
+       "morph-gls-pt-BR": "coisa",
+       "morph-gls-en": "thing",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "bicho",
+     "word_gls-en": "animal"
+    },
+    {
+     "word_text": "waap",
+     "word_breakdown": "waap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-gls-pt-BR": "TOT",
+       "morph-gls-en": "TOT",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "TOT",
+     "word_gls-en": "TOT"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "y\u0169t\u1ebdr",
+     "word_breakdown": "y\u0169t-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "PERFV",
+       "morph-gls-en": "PERFV",
+       "morph-msa-en": "???",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "word_gls-pt-BR": "PERFV.NEG",
+     "word_gls-en": "PERFV.NEG"
+    },
+    {
+     "word_text": "kon",
+     "word_breakdown": "kon",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kon",
+       "morph-gls-pt-BR": "se",
+       "morph-gls-en": "if",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "se",
+     "word_gls-en": "if"
+    },
+    {
+     "word_text": "m\u00e3ay",
+     "word_breakdown": "m\u00e3ay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-gls-pt-BR": "casa",
+       "morph-gls-en": "home",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "lar",
+     "word_gls-en": "home"
+    },
+    {
+     "word_text": "r\u00e3ap",
+     "word_breakdown": "r\u00e3ap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3ap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3ap",
+       "morph-gls-pt-BR": "peixe",
+       "morph-gls-en": "fish",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "peixe",
+     "word_gls-en": "fish"
+    },
+    {
+     "word_text": "sun",
+     "word_breakdown": "sun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-gls-pt-BR": "inclusive",
+       "morph-gls-en": "including",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "inclusive",
+     "word_gls-en": "including"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.15": {
+   "full_text": "n\u1ebdr xaay n\u0289\u0303g r\u00e3m wi\u00e7 tee r\u0169u sun y\u0169t\u1ebdr n\u0289\u0303g\u0289\u0303' wi\u00e7 tee n\u0289\u0303ked d\u00e2w r\u0169u y\u0169t \u00eae r\u0169u d\u00e2r\u0289\u0289d wi\u00e7 tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "voc\u00eas n\u00e3o v\u00e3o nem no mato filhos de wii\u00e7 voc\u00eas n\u00e3o matam nem uma ca\u00e7a filhos de wii\u00e7 antigamente eles matavam s\u00f3 a ca\u00e7a filhos de wii\u00e7",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "n\u1ebdr",
+     "word_breakdown": "n\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u1ebdr"
+      }
+     ],
+     "word_gls-pt-BR": "Pt:n\u00e9",
+     "word_gls-en": "Pt:not"
+    },
+    {
+     "word_text": "xaay",
+     "word_breakdown": "xaay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaay",
+       "morph-gls-pt-BR": "floresta",
+       "morph-gls-en": "forest",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "floresta",
+     "word_gls-en": "forest"
+    },
+    {
+     "word_text": "n\u0289\u0303g",
+     "word_breakdown": "n\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g"
+      }
+     ],
+     "word_gls-pt-BR": "2PL",
+     "word_gls-en": "2PL"
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "r\u0169u",
+     "word_breakdown": "r\u0169u",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-gls-pt-BR": "ca\u00e7a",
+       "morph-gls-en": "game.animal",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "animal.de.ca\u00e7a",
+     "word_gls-en": "game.animal"
+    },
+    {
+     "word_text": "sun",
+     "word_breakdown": "sun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "sun",
+       "morph-gls-pt-BR": "inclusive",
+       "morph-gls-en": "including",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "inclusive",
+     "word_gls-en": "including"
+    },
+    {
+     "word_text": "y\u0169t\u1ebdr",
+     "word_breakdown": "y\u0169t-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "matar",
+       "morph-gls-en": "kill",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "matar-NEG",
+     "word_gls-en": "kill-NEG"
+    },
+    {
+     "word_text": "n\u0289\u0303g\u0289\u0303'",
+     "word_breakdown": "n\u0289\u0303g\u0289\u0303'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0289\u0303g\u0289\u0303'"
+      }
+     ],
+     "word_gls-pt-BR": "2PL.ENF",
+     "word_gls-en": "2PL.EMPH"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "n\u0289\u0303ked",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "r\u0169u",
+     "word_breakdown": "r\u0169u",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-gls-pt-BR": "ca\u00e7a",
+       "morph-gls-en": "game.animal",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "animal.de.ca\u00e7a",
+     "word_gls-en": "game.animal"
+    },
+    {
+     "word_text": "y\u0169t",
+     "word_breakdown": "y\u0169t",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "matar",
+       "morph-gls-en": "kill",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "matar",
+     "word_gls-en": "kill"
+    },
+    {
+     "word_text": "\u00eae",
+     "word_breakdown": "\u00eae",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00eae"
+      }
+     ],
+     "word_gls-pt-BR": "Pt:\u00e9",
+     "word_gls-en": "Pt:is"
+    },
+    {
+     "word_text": "r\u0169u",
+     "word_breakdown": "r\u0169u",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169u",
+       "morph-gls-pt-BR": "ca\u00e7a",
+       "morph-gls-en": "game.animal",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "animal.de.ca\u00e7a",
+     "word_gls-en": "game.animal"
+    },
+    {
+     "word_text": "d\u00e2r\u0289\u0289d",
+     "word_breakdown": "d\u00e2r-\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-gls-pt-BR": "PLZ",
+       "morph-gls-en": "PLZ",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0289d",
+       "morph-gls-pt-BR": "REST",
+       "morph-gls-en": "REST",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "PLZ-REST",
+     "word_gls-en": "PLZ-REST"
+    },
+    {
+     "word_text": "wi\u00e7",
+     "word_breakdown": "wi\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "wi\u00e7"
+      }
+     ],
+     "word_gls-pt-BR": "Wii\u00e7",
+     "word_gls-en": "Wii\u00e7"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.16": {
+   "full_text": "waap duj ag\u00e2'",
+   "translations": {
+    "translation-pt-BR": "\u00e9 s\u00f3 isso",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "waap",
+     "word_breakdown": "waap",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "waap",
+       "morph-gls-pt-BR": "TOT",
+       "morph-gls-en": "TOT",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "TOT",
+     "word_gls-en": "TOT"
+    },
+    {
+     "word_text": "duj",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "ag\u00e2'",
+     "word_breakdown": "ag\u00e2'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ag\u00e2'",
+       "morph-gls-pt-BR": "PD.ENF",
+       "morph-gls-en": "PD.ENF",
+       "morph-msa-en": "pro-form"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "PD.ENF",
+     "word_gls-en": "PD.ENF"
+    }
+   ],
+   "notes": []
+  }
+ }
+}

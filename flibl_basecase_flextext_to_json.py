@@ -38,6 +38,9 @@ for text in texts:
             new_json["title-{}".format(lang_title.attrib["lang"])] = lang_title.text
     except:
         new_json["title"] = ""
+    
+    # initialize the dict of utterances
+    new_json["utterances"] = {}
 
     for phrase in ft.findall(".//phrase"):
         try:
@@ -98,7 +101,6 @@ for text in texts:
             word_dict["word_breakdown"] = word_breakdown
 
             word_dict["morphs"] = morph_list
-
             # add word level part of speech
             try:
                 for lang_pos in word.findall(".//item[@type='pos']"):
@@ -113,16 +115,16 @@ for text in texts:
             except:
                 word_dict["gls"] = ""
 
-
             # put the word_dict in the word_list
             word_list.append(word_dict)
         # add the phrase level baseline to the segdict
         segdict["full_text"] = full_text
         
         # add translation to segdict
+        segdict["translations"] = {}
         try:
             for lang_translation in phrase.findall(".//item[@type='gls']"):
-                segdict["translation-{}".format(lang_translation.attrib["lang"])] = lang_translation.text
+                segdict["translations"]["translation-{}".format(lang_translation.attrib["lang"])] = lang_translation.text
         except:
             # if you want an empty translation to appear when there is no translation
             # segdict["translation"] = ""
@@ -145,7 +147,7 @@ for text in texts:
             pass
         
         # add the segdict to the main dict
-        new_json[segnum] = segdict
+        new_json["utterances"][segnum] = segdict
 
     # create the json
     json.dump(new_json, open(json_dir + text[:-1*len(flextext_extension)] + "json", mode="w", encoding="utf8"), indent=1)

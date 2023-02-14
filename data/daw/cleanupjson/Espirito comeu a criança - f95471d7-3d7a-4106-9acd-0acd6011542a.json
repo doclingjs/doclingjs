@@ -1,0 +1,3009 @@
+{
+ "flextext": "Espirito comeu a crian\u00e7a - f95471d7-3d7a-4106-9acd-0acd6011542a.flextext",
+ "title-pt-BR": "Espirito comeu a crian\u00e7a",
+ "utterances": {
+  "1.1": {
+   "full_text": "ab\u0289g t\u0289m pooy y\u00e2a t\u0289m pooy y\u00e2a m\u00e3ay\u00a7",
+   "translations": {
+    "translation-pt-BR": "a\u00ed Olho-Grande (um curupira) chegou na barraca do d\u00e2w",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "y\u00e2a",
+     "word_breakdown": "y\u00e2a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00e2a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00e2a",
+       "morph-gls-pt-BR": "voltar",
+       "morph-gls-en": "return",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "voltar",
+     "word_gls-en": "return"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "y\u00e2a",
+     "word_breakdown": "y\u00e2a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00e2a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00e2a",
+       "morph-gls-pt-BR": "voltar",
+       "morph-gls-en": "return",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "voltar",
+     "word_gls-en": "return"
+    },
+    {
+     "word_text": "m\u00e3ay",
+     "word_breakdown": "m\u00e3ay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-gls-pt-BR": "casa",
+       "morph-gls-en": "home",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "casa",
+     "word_gls-en": "house"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.2": {
+   "full_text": "ab\u0289g reew m\u00e3ay d\u00e2w tee ab\u0289g d\u00e2w tee k\u00e2k xaa t\u0289m pooy s\u00ea' m\u00e3\u00e7, k\u00e2k xaa ab\u0289g t\u0289m pooy s\u00eaet d\u00f4o' w\u0289\u0289d ab\u0289g tir s\u00eaet y\u0169t\u1ebdr t\u0289m pooy s\u00eaet d\u00f4o' y\u0169t\u1ebdr aa'\u00a7",
+   "translations": {
+    "translation-pt-BR": "na barraca tinha muitas crian\u00e7as a\u00ed as crian\u00e7as amarraram a pera dele a\u00ed Olho-Grande carregou a pera dele mais n\u00e3o conseguiu de carregar",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "reew",
+     "word_breakdown": "reew",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "reew",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "reew",
+       "morph-gls-pt-BR": "ter/haver.muito",
+       "morph-gls-en": "have.a.lot",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ter.muito",
+     "word_gls-en": "exist.a.lot"
+    },
+    {
+     "word_text": "m\u00e3ay",
+     "word_breakdown": "m\u00e3ay",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u00e3ay",
+       "morph-gls-pt-BR": "casa",
+       "morph-gls-en": "home",
+       "morph-msa-en": "n",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "casa",
+     "word_gls-en": "house"
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "k\u00e2k",
+     "word_breakdown": "k\u00e2k",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u00e2k",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u00e2k",
+       "morph-gls-pt-BR": "amarrar",
+       "morph-gls-en": "tie.up",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "amarrar",
+     "word_gls-en": "tie.up"
+    },
+    {
+     "word_text": "xaa",
+     "word_breakdown": "xaa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-gls-pt-BR": "estar.agachado",
+       "morph-gls-en": "crouched",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar.agachado",
+     "word_gls-en": "crouched"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "s\u00ea' m\u00e3\u00e7",
+     "word_breakdown": "s\u00ea' m\u00e3\u00e7",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00ea' m\u00e3\u00e7",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "m\u00e3\u00e7",
+       "morph-gls-pt-BR": "cesto.descart\u00e1vel",
+       "morph-gls-en": "disposable.basket",
+       "morph-msa-en": "n",
+       "morph-variantTypes-pt-BR": "+unspec. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "cesto.descart\u00e1vel",
+     "word_gls-en": "disposable.basket"
+    },
+    {
+     "word_text": ",",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "k\u00e2k",
+     "word_breakdown": "k\u00e2k",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u00e2k",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u00e2k",
+       "morph-gls-pt-BR": "amarrar",
+       "morph-gls-en": "tie.up",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "amarrar",
+     "word_gls-en": "tie.up"
+    },
+    {
+     "word_text": "xaa",
+     "word_breakdown": "xaa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-gls-pt-BR": "estar.agachado",
+       "morph-gls-en": "crouched",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar.agachado",
+     "word_gls-en": "crouched"
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "T\u0289m.Pooy",
+     "word_gls-en": "T\u0289m.Pooy"
+    },
+    {
+     "word_text": "s\u00eaet",
+     "word_breakdown": "s\u00eaet",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00eaet",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00eaet",
+       "morph-gls-pt-BR": "carregar.costas",
+       "morph-gls-en": "carry.on.back",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "carregar",
+     "word_gls-en": "carry"
+    },
+    {
+     "word_text": "d\u00f4o'",
+     "word_breakdown": "d\u00f4o'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00f4o'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00f4o'",
+       "morph-gls-pt-BR": "AUX:dir.fonte",
+       "morph-gls-en": "AUX:dir.source",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "movimentar",
+     "word_gls-en": "move"
+    },
+    {
+     "word_text": "w\u0289\u0289d",
+     "word_breakdown": "w\u0289\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u0289\u0289d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "w\u0289\u0289d",
+       "morph-gls-pt-BR": "ser?",
+       "morph-gls-en": "be?",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "4",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ser.(passado)/possibilidade.de.ser",
+     "word_gls-en": "be.past/possibility"
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "s\u00eaet",
+     "word_breakdown": "s\u00eaet",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00eaet",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00eaet",
+       "morph-gls-pt-BR": "carregar.costas",
+       "morph-gls-en": "carry.on.back",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "carregar",
+     "word_gls-en": "carry"
+    },
+    {
+     "word_text": "y\u0169t\u1ebdr",
+     "word_breakdown": "y\u0169t-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "PERFV",
+       "morph-gls-en": "PERFV",
+       "morph-msa-en": "???",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr"
+      }
+     ],
+     "word_gls-pt-BR": "PERFCI-NEG",
+     "word_gls-en": "PERFCI-NEG"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "s\u00eaet",
+     "word_breakdown": "s\u00eaet",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00eaet",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00eaet",
+       "morph-gls-pt-BR": "carregar.costas",
+       "morph-gls-en": "carry.on.back",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "carregar",
+     "word_gls-en": "carry"
+    },
+    {
+     "word_text": "d\u00f4o'",
+     "word_breakdown": "d\u00f4o'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00f4o'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00f4o'",
+       "morph-gls-pt-BR": "AUX:dir.fonte",
+       "morph-gls-en": "AUX:dir.source",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "movimentar",
+     "word_gls-en": "move"
+    },
+    {
+     "word_text": "y\u0169t\u1ebdr",
+     "word_breakdown": "y\u0169t-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "PERFV",
+       "morph-gls-en": "PERFV",
+       "morph-msa-en": "???",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "word_gls-pt-BR": "PERFCI-NEG",
+     "word_gls-en": "PERFCI-NEG"
+    },
+    {
+     "word_text": "aa'",
+     "word_breakdown": "aa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "aa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "aa",
+       "morph-gls-pt-BR": "aquele/ aquela/ aquil ANAF.",
+       "morph-gls-en": null,
+       "morph-msa-en": "pro",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro",
+     "word_gls-pt-BR": "aquele/ aquela/ aquilo.ANAF.",
+     "word_gls-en": "that.ANAPH"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.3": {
+   "full_text": "ab\u0289g t\u0289m pooy y\u0169t r\u0169u' y\u00ead d\u00e2w tee\u0289\u0303\u0289y' ab\u0289g t\u0289m pooy xaa 'yaa' x\u00e2d\u00a7",
+   "translations": {
+    "translation-pt-BR": "ent\u00e3o Olho-Grande matou todas as crian\u00e7as e cozinhou na panela",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "y\u0169t",
+     "word_breakdown": "y\u0169t",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u0169t",
+       "morph-gls-pt-BR": "matar",
+       "morph-gls-en": "kill",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "matar",
+     "word_gls-en": "kill"
+    },
+    {
+     "word_text": "r\u0169u'",
+     "word_breakdown": "r\u0169'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u0169'",
+       "morph-gls-pt-BR": "acabar",
+       "morph-gls-en": "finish",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "acabar",
+     "word_gls-en": "finish"
+    },
+    {
+     "word_text": "y\u00ead",
+     "word_breakdown": "y\u00ead",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-gls-pt-BR": "querer",
+       "morph-gls-en": "want",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "querer",
+     "word_gls-en": "want"
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "tee\u0289\u0303\u0289y'",
+     "word_breakdown": "tee([d\u00e2w]tee)-\u0289\u0303\u0289y'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee",
+       "morph-gls-pt-BR": "IMPERF.FUT",
+       "morph-gls-en": "IMPERF.FUT",
+       "morph-msa-en": "???",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "([d\u00e2w]"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee)"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u0289\u0303\u0289y'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u0289\u0303\u0289y'",
+       "morph-gls-pt-BR": "OBJ",
+       "morph-gls-en": "OBJ",
+       "morph-msa-en": "n:Any",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho-OBJ",
+     "word_gls-en": "child-OBJ"
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "xaa",
+     "word_breakdown": "xaa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-gls-pt-BR": "estar.agachado",
+       "morph-gls-en": "crouched",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar.agachado",
+     "word_gls-en": "crouched"
+    },
+    {
+     "word_text": "'yaa'",
+     "word_breakdown": "'yaa'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'yaa'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'yaa'",
+       "morph-gls-pt-BR": "cozinhar.na.panela",
+       "morph-gls-en": "cook.in.pot",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": null,
+     "word_gls-en": "leave.cooking"
+    },
+    {
+     "word_text": "x\u00e2d",
+     "word_breakdown": "x\u00e2d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00e2d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00e2d",
+       "morph-gls-pt-BR": "DUR",
+       "morph-gls-en": "DUR",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "DUR",
+     "word_gls-en": "DUR"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.4": {
+   "full_text": "xaa 'yaa' x\u00e2d tir r\u00e2an d\u00e2r d\u00f4o ab\u0289g t\u0289m pooy ox r\u00e3m yow\u00a7",
+   "translations": {
+    "translation-pt-BR": "cozinhou antes dos pais chegaram e Olho-Grande fugiu ['foi correndo direto']",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "xaa",
+     "word_breakdown": "xaa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-gls-pt-BR": "cozinhar",
+       "morph-gls-en": "cook",
+       "morph-msa-en": "v",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "cozinhar",
+     "word_gls-en": "cook"
+    },
+    {
+     "word_text": "'yaa'",
+     "word_breakdown": "'yaa'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'yaa'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'yaa'",
+       "morph-gls-pt-BR": "cozinhar.na.panela",
+       "morph-gls-en": "cook.in.pot",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": null,
+     "word_gls-en": "leave.cooking"
+    },
+    {
+     "word_text": "x\u00e2d",
+     "word_breakdown": "x\u00e2d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "x\u00e2d",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "x\u00e2d",
+       "morph-gls-pt-BR": "DUR",
+       "morph-gls-en": "DUR",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "DUR",
+     "word_gls-en": "DUR"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "r\u00e2an",
+     "word_breakdown": "r\u00e2an",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e2an"
+      }
+     ],
+     "word_gls-pt-BR": "pai",
+     "word_gls-en": "father"
+    },
+    {
+     "word_text": "d\u00e2r",
+     "word_breakdown": "d\u00e2r",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-gls-pt-BR": "PONT",
+       "morph-gls-en": "PUNC",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "3",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "movimentar.subitamente",
+     "word_gls-en": "move.suddenly"
+    },
+    {
+     "word_text": "d\u00f4o",
+     "word_breakdown": "d\u00f4o",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00f4o",
+       "morph-msa-en": "v"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "fazer",
+     "word_gls-en": "do"
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "T\u0289m.Pooy",
+     "word_gls-en": "T\u0289m.Pooy"
+    },
+    {
+     "word_text": "ox",
+     "word_breakdown": "ox",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ox",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ox",
+       "morph-gls-pt-BR": "correr",
+       "morph-gls-en": "run",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "correr",
+     "word_gls-en": "run"
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "yow",
+     "word_breakdown": "yow",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "yow",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "yow",
+       "morph-gls-pt-BR": "PROG1",
+       "morph-gls-en": "PROG1",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "PROG1",
+     "word_gls-en": "PROG1"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.5": {
+   "full_text": "ab\u0289g tir p\u00eaet d\u00e2r r\u00e3am bee tee\u00a7",
+   "translations": {
+    "translation-pt-BR": "ele (Olho-Grande?) foi quebrando os varas (para fazer um caminho)",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "p\u00eaet",
+     "word_breakdown": "p\u00eaet",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u00eaet",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u00eaet",
+       "morph-gls-pt-BR": "quebrar.duro.trans",
+       "morph-gls-en": "break.sticklike.trans",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "quebrar",
+     "word_gls-en": "break"
+    },
+    {
+     "word_text": "d\u00e2r",
+     "word_breakdown": "d\u00e2r",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-gls-pt-BR": "PLZ",
+       "morph-gls-en": "PLZ",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "prt",
+     "word_gls-pt-BR": "PLZ",
+     "word_gls-en": "PLZ"
+    },
+    {
+     "word_text": "r\u00e3am",
+     "word_breakdown": "r\u00e3am",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3am",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3am",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "levar",
+     "word_gls-en": "take"
+    },
+    {
+     "word_text": "bee",
+     "word_breakdown": "bee",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "bee",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "bee",
+       "morph-gls-pt-BR": "\u00e1rvore",
+       "morph-gls-en": "tree",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "\u00e1rvore",
+     "word_gls-en": "tree"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.6": {
+   "full_text": "ab\u0289g t\u0289m pooy p\u00eaet d\u00e2r r\u00e3am bee tee t\u00eaer tir ka'\u00a7",
+   "translations": {
+    "translation-pt-BR": "ele foi quebrando os galhos at\u00e9 onde ele estava deitado",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "p\u00eaet",
+     "word_breakdown": "p\u00eaet",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "p\u00eaet",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "p\u00eaet",
+       "morph-gls-pt-BR": "quebrar.duro.trans",
+       "morph-gls-en": "break.sticklike.trans",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "quebrar",
+     "word_gls-en": "break"
+    },
+    {
+     "word_text": "d\u00e2r",
+     "word_breakdown": "d\u00e2r",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2r",
+       "morph-gls-pt-BR": "PLZ",
+       "morph-gls-en": "PLZ",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "prt",
+     "word_gls-pt-BR": "PLZ",
+     "word_gls-en": "PLZ"
+    },
+    {
+     "word_text": "r\u00e3am",
+     "word_breakdown": "r\u00e3am",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3am",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3am",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "levar",
+     "word_gls-en": "take"
+    },
+    {
+     "word_text": "bee",
+     "word_breakdown": "bee",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "bee",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "bee",
+       "morph-gls-pt-BR": "\u00e1rvore",
+       "morph-gls-en": "tree",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "\u00e1rvore",
+     "word_gls-en": "tree"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "t\u00eaer",
+     "word_breakdown": "t\u00eaer",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u00eaer"
+      }
+     ],
+     "word_gls-pt-BR": "at\u00e9",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "ka'",
+     "word_breakdown": "ka'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ka'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ka'",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "deitar.rede",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.7": {
+   "full_text": "paas b\u0289\u0289t, ab\u0289g t\u0289m pooy\u00a7",
+   "translations": {
+    "translation-pt-BR": "em baixo da pedra, a\u00ed Olho-Grande ",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "paas",
+     "word_breakdown": "paas",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "paas",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "paas",
+       "morph-gls-pt-BR": "pedra",
+       "morph-gls-en": "stone",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pedra",
+     "word_gls-en": "stone"
+    },
+    {
+     "word_text": "b\u0289\u0289t",
+     "word_breakdown": "b\u0289\u0289t",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289\u0289t",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289\u0289t",
+       "morph-gls-pt-BR": "abaixo",
+       "morph-gls-en": "below",
+       "morph-msa-en": "post",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "abaixo",
+     "word_gls-en": "below"
+    },
+    {
+     "word_text": ",",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.8": {
+   "full_text": "ab\u0289g d\u00e2w tee r\u00e2an ton r\u00e3m t\u0289m pooy\u0289\u0303\u0289y'\u00a7",
+   "translations": {
+    "translation-pt-BR": "ent\u00e3o os pais das crian\u00e7as foram atras dele",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "r\u00e2an",
+     "word_breakdown": "r\u00e2an",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e2an"
+      }
+     ],
+     "word_gls-pt-BR": "pai",
+     "word_gls-en": "father"
+    },
+    {
+     "word_text": "ton",
+     "word_breakdown": "ton",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ton",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ton",
+       "morph-gls-pt-BR": "segurar",
+       "morph-gls-en": "hold",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "segurar",
+     "word_gls-en": "hold"
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "t\u0289m pooy\u0289\u0303\u0289y'",
+     "word_breakdown": "t\u0289m pooy\u0289\u0303\u0289y'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0289\u0303\u0289y'"
+      }
+     ]
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.9": {
+   "full_text": "r\u00e3m t\u0289m pooy \u00e7\u0289\u0289m s\u00e2ak rid tee s\u00ea'\u00a7",
+   "translations": {
+    "translation-pt-BR": "foram atras dos rastros dele por causa dos filhos",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "\u00e7\u0289\u0289m",
+     "word_breakdown": "\u00e7\u0289\u0289m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u00e7\u0289\u0289m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "\u00e7\u0289\u0289m",
+       "morph-gls-pt-BR": "p\u00e9",
+       "morph-gls-en": "foot",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "p\u00e9",
+     "word_gls-en": "foot"
+    },
+    {
+     "word_text": "s\u00e2ak",
+     "word_breakdown": "s\u00e2ak",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00e2ak"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "seguir",
+     "word_gls-en": "follow"
+    },
+    {
+     "word_text": "rid",
+     "word_breakdown": "rid",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "rid",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "rid",
+       "morph-gls-pt-BR": "3P",
+       "morph-gls-en": "3P",
+       "morph-msa-en": "pro-form",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "3PL",
+     "word_gls-en": "3PL"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "s\u00ea'",
+     "word_breakdown": "s\u00ea'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "s\u00ea'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "s\u00ea'",
+       "morph-gls-pt-BR": "por.causa",
+       "morph-gls-en": "because",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "post",
+     "word_gls-pt-BR": "por causa de",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.10": {
+   "full_text": "ab\u0289g tir r\u00e3m, r\u00e3m, r\u00e3m ab\u0289g t\u0289m pooy n\u00e3a\u00a7",
+   "translations": {
+    "translation-pt-BR": "a\u00ed eles foram, foram, foram a\u00ed Olho-Grande disse",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": ",",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": ",",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "r\u00e3m",
+     "word_breakdown": "r\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00e3m",
+       "morph-gls-pt-BR": "ir",
+       "morph-gls-en": "go",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ir",
+     "word_gls-en": "go"
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "n\u00e3a",
+     "word_breakdown": "n\u00e3a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-gls-pt-BR": "voar",
+       "morph-gls-en": "fly",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "voar",
+     "word_gls-en": "fly"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.11": {
+   "full_text": "n\u00e3a' 'm\u0289\u0303g 'yu' r\u00e3' sikle' n\u00e3a\u00a7",
+   "translations": {
+    "translation-pt-BR": "so sou mole somente nessa parte sikile' (sikle' = name that he called the person; Curupira 'nao fala lingua da gente')",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "n\u00e3a'",
+     "word_breakdown": "n\u00e3a'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a'",
+       "morph-gls-pt-BR": "DEM.prox",
+       "morph-gls-en": "DEM.prox",
+       "morph-msa-en": "pro",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "pro-form",
+     "word_gls-pt-BR": "aqui.perto",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "'m\u0289\u0303g",
+     "word_breakdown": "'m\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "'yu'",
+     "word_breakdown": "'yu'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'yu'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'yu'",
+       "morph-gls-pt-BR": "mole",
+       "morph-gls-en": "soft",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "mole",
+     "word_gls-en": "soft"
+    },
+    {
+     "word_text": "r\u00e3'",
+     "word_breakdown": "r\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3'"
+      }
+     ],
+     "word_gls-pt-BR": "eu??",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "sikle'",
+     "word_breakdown": "sikle'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sikle'"
+      }
+     ],
+     "word_gls-pt-BR": "PN",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "n\u00e3a",
+     "word_breakdown": "n\u00e3a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-gls-pt-BR": "dizer",
+       "morph-gls-en": "say",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "dizer",
+     "word_gls-en": "say"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.12": {
+   "full_text": "'m\u0289\u0303g 'yu' r\u00e3' sikile' n\u00e3a b\u0289g d\u00e2w tee iip\u00a7",
+   "translations": {
+    "translation-pt-BR": "aqui sou mole sikile' a\u00ed os pais das crian\u00e7as",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "'m\u0289\u0303g",
+     "word_breakdown": "'m\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "'yu'",
+     "word_breakdown": "'yu'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'yu'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'yu'",
+       "morph-gls-pt-BR": "mole",
+       "morph-gls-en": "soft",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "mole",
+     "word_gls-en": "soft"
+    },
+    {
+     "word_text": "r\u00e3'",
+     "word_breakdown": "r\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3'"
+      }
+     ],
+     "word_gls-pt-BR": "eu??",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "sikile'",
+     "word_breakdown": "sikile'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sikile'"
+      }
+     ],
+     "word_gls-pt-BR": "PN",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "n\u00e3a",
+     "word_breakdown": "n\u00e3a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-gls-pt-BR": "voar",
+       "morph-gls-en": "fly",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "voar",
+     "word_gls-en": "fly"
+    },
+    {
+     "word_text": "b\u0289g",
+     "word_breakdown": "b\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "tee",
+     "word_breakdown": "tee ([d\u00e2w] tee)",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tee ([d\u00e2w] tee)",
+       "morph-gls-pt-BR": "filho",
+       "morph-gls-en": "offspring",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "filho",
+     "word_gls-en": "son"
+    },
+    {
+     "word_text": "iip",
+     "word_breakdown": "iip",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "iip",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "iip",
+       "morph-gls-pt-BR": "pai",
+       "morph-gls-en": "father",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pai",
+     "word_gls-en": "father"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.13": {
+   "full_text": "k\u0129nh y\u00ead t\u0289m pooy\u0289\u0303\u0289y' k\u0129nh y\u00ead\u00a7",
+   "translations": {
+    "translation-pt-BR": "come\u00e7aram a flechar e flecharam",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "k\u0129nh",
+     "word_breakdown": "k\u0129nh",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-gls-pt-BR": "flechar",
+       "morph-gls-en": "shoot.arrow",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "flechar",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "y\u00ead",
+     "word_breakdown": "y\u00ead",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-gls-pt-BR": "INTENS",
+       "morph-gls-en": "INTENS",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "INTENS",
+     "word_gls-en": "INTENS"
+    },
+    {
+     "word_text": "t\u0289m pooy\u0289\u0303\u0289y'",
+     "word_breakdown": "t\u0289m pooy\u0289\u0303\u0289y'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "\u0289\u0303\u0289y'"
+      }
+     ]
+    },
+    {
+     "word_text": "k\u0129nh",
+     "word_breakdown": "k\u0129nh",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-gls-pt-BR": "flechar",
+       "morph-gls-en": "shoot.arrow",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "flechar",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "y\u00ead",
+     "word_breakdown": "y\u00ead",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "y\u00ead",
+       "morph-gls-pt-BR": "INTENS",
+       "morph-gls-en": "INTENS",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "INTENS",
+     "word_gls-en": "INTENS"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.14": {
+   "full_text": "ab\u0289g tir k\u0129nh, k\u0129nh, k\u0129nh ab\u0289g tir kas\u00e3m\u1ebdr pis suun\u00a7",
+   "translations": {
+    "translation-pt-BR": "a\u00ed flecharam, flecharam, flecharam n\u00e3o morreu de jeito nenhum [he was shooting at other parts of the body, not the soft part]",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "k\u0129nh",
+     "word_breakdown": "k\u0129nh",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-gls-pt-BR": "flechar",
+       "morph-gls-en": "shoot.arrow",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "flechar",
+     "word_gls-en": null
+    },
+    {
+     "word_text": ",",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "k\u0129nh",
+     "word_breakdown": "k\u0129nh",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-gls-pt-BR": "flechar",
+       "morph-gls-en": "shoot.arrow",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "flechar",
+     "word_gls-en": null
+    },
+    {
+     "word_text": ",",
+     "word_breakdown": "",
+     "morphs": []
+    },
+    {
+     "word_text": "k\u0129nh",
+     "word_breakdown": "k\u0129nh",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-gls-pt-BR": "flechar",
+       "morph-gls-en": "shoot.arrow",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "flechar",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "kas\u00e3m\u1ebdr",
+     "word_breakdown": "kas\u00e3m-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kas\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kas\u00e3m",
+       "morph-gls-pt-BR": "morrer",
+       "morph-gls-en": "die",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "morrer",
+     "word_gls-en": "die"
+    },
+    {
+     "word_text": "pis",
+     "word_breakdown": "pis",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "pis",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "pis",
+       "morph-gls-pt-BR": "pequeno",
+       "morph-gls-en": "small",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ser.pouco",
+     "word_gls-en": "be.little"
+    },
+    {
+     "word_text": "suun",
+     "word_breakdown": "suun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "suun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "suun",
+       "morph-gls-pt-BR": "COL",
+       "morph-gls-en": "COL",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "COL",
+     "word_gls-en": "COL"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.15": {
+   "full_text": "ab\u0289g tir kas\u00e3m\u1ebdr pis suun\u00a7",
+   "translations": {
+    "translation-pt-BR": "e n\u00e3o morreu de jeito nenhum",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "tir",
+     "word_breakdown": "tir",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "tir",
+       "morph-gls-pt-BR": "3SG",
+       "morph-gls-en": "3SG",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "3SG",
+     "word_gls-en": "3SG"
+    },
+    {
+     "word_text": "kas\u00e3m\u1ebdr",
+     "word_breakdown": "kas\u00e3m-\u1ebdr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kas\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kas\u00e3m",
+       "morph-gls-pt-BR": "morrer",
+       "morph-gls-en": "die",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      },
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "-\u1ebdr",
+       "morph-gls-pt-BR": "NEG",
+       "morph-gls-en": "NEG",
+       "morph-msa-en": "Attaches to any category",
+       "morph_type": "suffix"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "morrer",
+     "word_gls-en": "die"
+    },
+    {
+     "word_text": "pis",
+     "word_breakdown": "pis",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "pis",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "pis",
+       "morph-gls-pt-BR": "pequeno",
+       "morph-gls-en": "small",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "ser.pouco",
+     "word_gls-en": "be.little"
+    },
+    {
+     "word_text": "suun",
+     "word_breakdown": "suun",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "suun",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "suun",
+       "morph-gls-pt-BR": "COL",
+       "morph-gls-en": "COL",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "1",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "COL",
+     "word_gls-en": "COL"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.16": {
+   "full_text": "ab\u0289g t\u0289m pooy ka' b\u0289g r\u00f5n' t\u0289m pooy n\u00e3a\u00a7",
+   "translations": {
+    "translation-pt-BR": "e Olho-Grande estava deitado na rede demorado ele disse",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "ka'",
+     "word_breakdown": "ka'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ka'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "ka'",
+       "morph-gls-pt-BR": "deitar (usado apenas para rede)",
+       "morph-gls-en": "lie (used only for hammock)",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "PROG2",
+     "word_gls-en": "PROG2"
+    },
+    {
+     "word_text": "b\u0289g",
+     "word_breakdown": "b\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "r\u00f5n'",
+     "word_breakdown": "r\u00f5n'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00f5n'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "r\u00f5n'",
+       "morph-gls-pt-BR": "depois.de.um.tempo",
+       "morph-gls-en": "after.a.while",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "depois.de.um.tempo",
+     "word_gls-en": "after.a.while"
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "n\u00e3a",
+     "word_breakdown": "n\u00e3a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-gls-pt-BR": "dizer",
+       "morph-gls-en": "say",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "dizer",
+     "word_gls-en": "say"
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.17": {
+   "full_text": "t\u0289m pooy n\u00e3a 'm\u0289\u0303g 'yu' r\u00e3' sikile'\u00a7",
+   "translations": {
+    "translation-pt-BR": "o meu corpo so \u00e9 mole aqui sikile'",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "n\u00e3a",
+     "word_breakdown": "n\u00e3a",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "n\u00e3a",
+       "morph-gls-pt-BR": "dizer",
+       "morph-gls-en": "say",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "dizer",
+     "word_gls-en": "say"
+    },
+    {
+     "word_text": "'m\u0289\u0303g",
+     "word_breakdown": "'m\u0289\u0303g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'m\u0289\u0303g",
+       "morph-gls-pt-BR": "aqui",
+       "morph-gls-en": "here",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "aqui",
+     "word_gls-en": "here"
+    },
+    {
+     "word_text": "'yu'",
+     "word_breakdown": "'yu'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "'yu'",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "'yu'",
+       "morph-gls-pt-BR": "mole",
+       "morph-gls-en": "soft",
+       "morph-msa-en": "<Not Sure>",
+       "morph_type": "root"
+      }
+     ],
+     "word_gls-pt-BR": "mole",
+     "word_gls-en": "soft"
+    },
+    {
+     "word_text": "r\u00e3'",
+     "word_breakdown": "r\u00e3'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "r\u00e3'"
+      }
+     ],
+     "word_gls-pt-BR": "eu??",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "sikile'",
+     "word_breakdown": "sikile'",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "sikile'"
+      }
+     ],
+     "word_gls-pt-BR": "PN",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.18": {
+   "full_text": "ab\u0289g d\u00e2w k\u0129nh xaa b\u0289g w\u0289d\u00a7",
+   "translations": {
+    "translation-pt-BR": "a\u00ed d\u00e2w flechou bem a\u00ed onde ele falou",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "d\u00e2w",
+     "word_breakdown": "d\u00e2w",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "d\u00e2w",
+       "morph-gls-pt-BR": "pessoa",
+       "morph-gls-en": "person",
+       "morph-msa-en": "n",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "pessoa",
+     "word_gls-en": "person"
+    },
+    {
+     "word_text": "k\u0129nh",
+     "word_breakdown": "k\u0129nh",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "k\u0129nh",
+       "morph-gls-pt-BR": "flechar",
+       "morph-gls-en": "shoot.arrow",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "flechar",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "xaa",
+     "word_breakdown": "xaa",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "xaa",
+       "morph-gls-pt-BR": "estar.agachado",
+       "morph-gls-en": "crouched",
+       "morph-msa-en": "<Not Sure>",
+       "morph-hn-kwa-Latn-BR-x-dwpracti": "2",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "estar.agachado",
+     "word_gls-en": "crouched"
+    },
+    {
+     "word_text": "b\u0289g",
+     "word_breakdown": "b\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "w\u0289d",
+     "word_breakdown": "w\u0289d",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "w\u0289d"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "INTENS?",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "\u00a7",
+     "word_breakdown": "",
+     "morphs": []
+    }
+   ],
+   "notes": []
+  },
+  "1.19": {
+   "full_text": "ab\u0289g n\u0129ir t\u0289m pooy kas\u00e3m",
+   "translations": {
+    "translation-pt-BR": "a\u00ed que Olho-Grande morreu",
+    "translation-en": null
+   },
+   "word_list": [
+    {
+     "word_text": "ab\u0289g",
+     "word_breakdown": "ab\u0289g",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "ab\u0289g",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "b\u0289g",
+       "morph-gls-pt-BR": "a\u00ed",
+       "morph-gls-en": "then",
+       "morph-msa-en": "adv",
+       "morph-variantTypes-pt-BR": "+fr. var. of",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "adv",
+     "word_gls-pt-BR": "isso-a\u00ed",
+     "word_gls-en": "then"
+    },
+    {
+     "word_text": "n\u0129ir",
+     "word_breakdown": "n\u0129\u00edr",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "n\u0129\u00edr"
+      }
+     ],
+     "word_gls-pt-BR": "ter/ser?",
+     "word_gls-en": null
+    },
+    {
+     "word_text": "t\u0289m pooy",
+     "word_breakdown": "t\u0289m pooy",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "t\u0289m pooy",
+       "morph-gls-pt-BR": "T\u0289m.Pooy",
+       "morph-gls-en": "T\u0289m.Pooy",
+       "morph-msa-en": "n",
+       "morph_type": "phrase"
+      }
+     ],
+     "word_pos-en": "n",
+     "word_gls-pt-BR": "Olho.Grande",
+     "word_gls-en": "Big.Eye"
+    },
+    {
+     "word_text": "kas\u00e3m",
+     "word_breakdown": "kas\u00e3m",
+     "morphs": [
+      {
+       "morph-txt-kwa-Latn-BR-x-dwpracti": "kas\u00e3m",
+       "morph-cf-kwa-Latn-BR-x-dwpracti": "kas\u00e3m",
+       "morph-gls-pt-BR": "morrer",
+       "morph-gls-en": "die",
+       "morph-msa-en": "v",
+       "morph_type": "root"
+      }
+     ],
+     "word_pos-en": "v",
+     "word_gls-pt-BR": "morrer",
+     "word_gls-en": "die"
+    }
+   ],
+   "notes": []
+  }
+ }
+}
